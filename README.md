@@ -36,14 +36,14 @@ I'm a dedicated Software Engineer student residing in Nairobi, with roots in Mig
         </a>
         <p>
           Full-stack personal finance tracker with "You Need a Budget" (YNAB) budgeting, budget templates, and transaction management<br/>
-          <strong>Python, Flask, PostgreSQL</strong>
+          <strong>HTML, CSS, JAVASCRIPT, REACT</strong>
         </p>
         <a href="https://github.com/lizardcat/personal-finance-tracker">
           <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <br/>
-        <a href="https://student-finance-tracker.up.railway.app/">
-          <img src="https://img.shields.io/badge/Live_Demo-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+        <a href="https://teamiq-1b7be.web.app/">
+          <img src="https://teamiq-1b7be.firebaseapp.com//Live_Demo-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
         </a>
     </td>  
   </tr>
