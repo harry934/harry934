@@ -39,9 +39,6 @@ I'm a dedicated Software Engineer student residing in Nairobi, with roots in Mig
   develop and refine creative ideas. Projects are submitted for review and matched with
   professional guidance and mentorship to support growth and real-world impact.
   <br/><br/>
-  As the platform evolves, <strong>data privacy and idea protection</strong> remain core
-  priorities to ensure a safe and trusted environment for innovators.
-  <br/><br/>
   <strong>Tech Stack:</strong> HTML · CSS · JavaScript · React
 </p>
         <a href="https://github.com/harry934/TeamIQ">
