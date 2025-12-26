@@ -19,7 +19,7 @@ I'm a dedicated Software Engineer student residing in Nairobi, with roots in Mig
       </a>
       <p>
         This is my website protfolio I've been updating my skills and projects I've worked on I'm hoping to connect with young innovators like me and work towards building something amazing.<br/>
-        <strong>HTML, CSS, JAVASCRIPT</strong>
+         <strong>Tech Stack:</strong> HTML · CSS · JavaScript
       </p>
       <a href="https://github.com/harry934/Portfolio">
         <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
