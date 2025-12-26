@@ -31,12 +31,9 @@ I'm a dedicated Software Engineer student residing in Nairobi, with roots in Mig
     </td>
     <td width="50%" valign="top" align="center">
      <h3>Team IQ</h3>
-      <!-- Demo Video -->
-<video src="https://github.com/harry934/TeamIQ/raw/main/demo.mp4"
-       width="90%"
-       controls
-       style="border-radius:12px; margin-bottom:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
-</video>
+      <a href="https://harry0tieno.netlify.app/">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBsYXc3eGdic2kycDd2enh2NDdzYjhtc3d5eGJtaW94ZHMzcDdpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RXwMNzYMfhGfddbhV7/giphy.gif" width="90%" alt="Portfolio" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+      </a>
         <p>
   <strong>TEAM IQ</strong> is a proposed platform designed to showcase how young innovators
   develop and refine creative ideas. Projects are submitted for review and matched with
