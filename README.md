@@ -31,14 +31,14 @@ I'm a dedicated Software Engineer student residing in Nairobi, with roots in Mig
     </td>
     <td width="50%" valign="top" align="center">
      <h3>Team IQ</h3>
-        <a href="https://student-finance-tracker.up.railway.app/">
-          <img src="https://imgflip.com/gif/afv0cy" width="90%" alt="Team IQ" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+        <a href="https://teamiq-1b7be.web.app/">
+          <img src="" width="90%" alt="Team IQ" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
         </a>
         <p>
           Full-stack personal finance tracker with "You Need a Budget" (YNAB) budgeting, budget templates, and transaction management<br/>
           <strong>HTML, CSS, JAVASCRIPT, REACT</strong>
         </p>
-        <a href="https://github.com/lizardcat/personal-finance-tracker">
+        <a href="https://github.com/harry934/TeamIQ">
           <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <br/>
