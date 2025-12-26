@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=lizardcat&style=for-the-badge&color=blueviolet" alt="profile views"/>
 </p>
 
-I'm a dedicated Software Engineer student residing in Nairobi, with roots in Migori county. My passion for technology and innovation fuels my commitment to creating impactful solutions for real communities. I have accumulated a wealth of experience in various fields, including software engineering, machine learning, Android development, and web development. I have a particular interest in developing innovative solutions.
+My name is Harry and I am a dedicated Software Engineer student residing in Nairobi, with roots in Migori county. My passion for technology and innovation fuels my commitment to creating impactful solutions for real communities. I have accumulated a wealth of experience in various fields, including software engineering, machine learning, Android development, and web development. I have a particular interest in developing innovative solutions.
 
 <h1 align="center">Ongoing Projects</h1>
 <table>
@@ -52,7 +52,7 @@ I'm a dedicated Software Engineer student residing in Nairobi, with roots in Mig
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>💼 Payroll System</h3>
+      <h3>Emergency Responce ML</h3>
        <a href="https://github.com/lizardcat/usiu-payroll-system">
         <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWwycmFjM3ZnYmthYmNuYnV4NW5zd3Fva3d6NXA3aW95cXJ1bXdjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7SuVhSEcXSbA4exFmb/giphy.gif" width="90%" alt="Payroll System" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
        </a>
