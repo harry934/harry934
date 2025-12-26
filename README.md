@@ -82,25 +82,7 @@ My name is Harry and I am a dedicated Software Engineer student residing in Nair
   <a href="https://emergencyresponsee.streamlit.app/">
     <img src="https://img.shields.io/badge/LIVE_DEMO-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   </a>
-
-</td>
-      <h3>💎 Cryptocurrency Dashboard</h3>
-      <a href="https://30-dashboards-30-days.netlify.app/dashboard-03">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemM4ZWZobzZ3Z3Q0bjhwbDc0NzBzNDhnNmg5MzJ0bWxleHJqZ3E2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wzB0IqGbnmTWz55cTb/giphy.gif" width="90%" alt="Cryptocurrency Dashboard" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
-      </a>
-      <p>
-        Real-time crypto market data with portfolio management, price history charts, and CoinGecko API integration.<br/>
-        <strong>React, Recharts, CoinGecko API, Tailwind CSS</strong>
-      </p>
-      <a href="https://github.com/lizardcat/30-dashboards-30-days">
-        <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <br/>
-      <a href="https://30-dashboards-30-days.netlify.app/dashboard-03">
-        <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
+      
 </table>
 
 
