@@ -53,16 +53,19 @@ My name is Harry and I am a dedicated Software Engineer student residing in Nair
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>Emergency Responce ML</h3>
-       <a href="https://github.com/lizardcat/usiu-payroll-system">
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWwycmFjM3ZnYmthYmNuYnV4NW5zd3Fva3d6NXA3aW95cXJ1bXdjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7SuVhSEcXSbA4exFmb/giphy.gif" width="90%" alt="Payroll System" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+       <a href="https://emergencyresponsee.streamlit.app/">
+        <img     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZvMHFpbWtkMms0bDAwZ3JpZXZvY2UxaXdkMjR4NTRyZXEybnRlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lPrZAdsDJVs4hcXHVi/giphy.gif" width="90%" alt="Emergency Response" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
        </a>
       <p>
-        Payroll web app with Kenyan salary and tax calculations.<br/>
-        <strong>Java, Springboot, MySQL</strong>
+        Emergency Response ML is a demo model that analyzes road camera images to classify traffic conditions, accidents, heavy traffic, or normal flow. The goal is to shorten emergency response times and improve road safety on Kenyan roads. <br/><br/>
+  <strong>Tech Stack:</strong> Python · CSS · MobileNetV2 · 
       </p>
       <a href="https://github.com/lizardcat/usiu-payroll-system">
         <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
+        <a href="https://teamiq-1b7be.web.app/">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</a>
     </td>
     <td width="50%" valign="top" align="center">
       <h3>💎 Cryptocurrency Dashboard</h3>
