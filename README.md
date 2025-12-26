@@ -33,7 +33,6 @@ My name is Harry and I am a dedicated Software Engineer student residing in Nair
         <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
       </a>
     </td>
-
     <td width="50%" valign="top" align="center">
       <h3>Team IQ</h3>
       <a href="https://harry0tieno.netlify.app/">
@@ -80,7 +79,7 @@ My name is Harry and I am a dedicated Software Engineer student residing in Nair
 
 <div align="center">
   <!-- Languages -->
-<!-- Languages -->
+  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -89,7 +88,7 @@ My name is Harry and I am a dedicated Software Engineer student residing in Nair
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-  
+
   <br/>
   
   <!-- Frameworks & Libraries -->
