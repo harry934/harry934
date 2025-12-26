@@ -31,9 +31,12 @@ I'm a dedicated Software Engineer student residing in Nairobi, with roots in Mig
     </td>
     <td width="50%" valign="top" align="center">
      <h3>Team IQ</h3>
-        <a href="https://teamiq-1b7be.web.app/">
-          <img src="" width="90%" alt="Team IQ" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
-        </a>
+      <!-- Demo Video -->
+<video src="https://github.com/harry934/TeamIQ/raw/main/demo.mp4"
+       width="90%"
+       controls
+       style="border-radius:12px; margin-bottom:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
+</video>
         <p>
   <strong>TEAM IQ</strong> is a proposed platform designed to showcase how young innovators
   develop and refine creative ideas. Projects are submitted for review and matched with
