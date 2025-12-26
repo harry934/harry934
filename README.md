@@ -35,12 +35,15 @@ I'm a dedicated Software Engineer student residing in Nairobi, with roots in Mig
           <img src="" width="90%" alt="Team IQ" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
         </a>
         <p>
-        <strong>Team IQ</strong> is a modern personal finance and budgeting web application inspired by
-  <em>You Need A Budget (YNAB)</em>. It helps users track income, manage expenses, create budget
-  templates, and make smarter financial decisions through a clean and intuitive interface.
-  <br/> <br/>
+  <strong>TEAM IQ</strong> is a proposed platform designed to showcase how young innovators
+  develop and refine creative ideas. Projects are submitted for review and matched with
+  professional guidance and mentorship to support growth and real-world impact.
+  <br/><br/>
+  As the platform evolves, <strong>data privacy and idea protection</strong> remain core
+  priorities to ensure a safe and trusted environment for innovators.
+  <br/><br/>
   <strong>Tech Stack:</strong> HTML · CSS · JavaScript · React
-        </p>
+</p>
         <a href="https://github.com/harry934/TeamIQ">
           <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
