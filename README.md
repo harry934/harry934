@@ -51,23 +51,39 @@ My name is Harry and I am a dedicated Software Engineer student residing in Nair
     </td>  
   </tr>
   <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>Emergency Responce ML</h3>
-       <a href="https://emergencyresponsee.streamlit.app/">
-        <img     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZvMHFpbWtkMms0bDAwZ3JpZXZvY2UxaXdkMjR4NTRyZXEybnRlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lPrZAdsDJVs4hcXHVi/giphy.gif" width="90%" alt="Emergency Response" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
-       </a>
-      <p>
-        Emergency Response ML is a demo model that analyzes road camera images to classify traffic conditions, accidents, heavy traffic, or normal flow. The goal is to shorten emergency response times and improve road safety on Kenyan roads. <br/><br/>
-  <strong>Tech Stack:</strong> Python · CSS · MobileNetV2 · 
-      </p>
-      <a href="https://github.com/lizardcat/usiu-payroll-system">
-        <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-        <a href="https://teamiq-1b7be.web.app/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</a>
-    </td>
-    <td width="50%" valign="top" align="center">
+   <td width="50%" valign="top" align="center">
+
+  <h3>Emergency Response ML</h3>
+
+  <a href="https://emergencyresponsee.streamlit.app/">
+    <img
+      src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZvMHFpbWtkMms0bDAwZ3JpZXZvY2UxaXdkMjR4NTRyZXEybnRlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lPrZAdsDJVs4hcXHVi/giphy.gif"
+      width="90%"
+      alt="Emergency Response ML Demo"
+      style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+  </a>
+
+  <p>
+    <strong>Emergency Response ML</strong> is a machine learning–based system designed to analyze
+    road camera images and classify traffic conditions such as <em>accidents, heavy traffic,
+    or normal flow</em>. The project aims to support faster emergency response and improve
+    road safety, particularly within the Kenyan road network.
+    <br/><br/>
+    The model was <strong>trained in Google Colab</strong> using a deep learning approach and later
+    <strong>deployed with Streamlit</strong> for real-time inference and visualization.
+    <br/><br/>
+    <strong>Tech Stack:</strong> Python · Streamlit · MobileNetV2 · TensorFlow · Google Colab · VS Code
+  </p>
+
+  <a href="https://github.com/harry934/Emergency-Responce">
+    <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://emergencyresponsee.streamlit.app/">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  </a>
+
+</td>
       <h3>💎 Cryptocurrency Dashboard</h3>
       <a href="https://30-dashboards-30-days.netlify.app/dashboard-03">
         <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemM4ZWZobzZ3Z3Q0bjhwbDc0NzBzNDhnNmg5MzJ0bWxleHJqZ3E2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wzB0IqGbnmTWz55cTb/giphy.gif" width="90%" alt="Cryptocurrency Dashboard" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
