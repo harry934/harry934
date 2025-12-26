@@ -15,7 +15,7 @@ I'm a dedicated Software Engineer student residing in Nairobi, with roots in Mig
     <td width="50%" valign="top" align="center">
       <h3>Personal Portfolio Website</h3>
       <a href="https://harry0tieno.netlify.app/">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBsYXc3eGdic2kycDd2enh2NDdzYjhtc3d5eGJtaW94ZHMzcDdpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RXwMNzYMfhGfddbhV7/giphy.gif" width="90%" alt="GitHub Analytics Dashboard" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBsYXc3eGdic2kycDd2enh2NDdzYjhtc3d5eGJtaW94ZHMzcDdpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RXwMNzYMfhGfddbhV7/giphy.gif" width="90%" alt="Portfolio" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
       <p>
         This is my website protfolio I've been updating my skills and projects I've worked on I'm hoping to connect with young innovators like me and work towards building something amazing.<br/>
@@ -30,9 +30,9 @@ I'm a dedicated Software Engineer student residing in Nairobi, with roots in Mig
       </a>
     </td>
     <td width="50%" valign="top" align="center">
-     <h3>💰 YNAB Personal Finance Tracker</h3>
+     <h3>Team IQ</h3>
         <a href="https://student-finance-tracker.up.railway.app/">
-          <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDltZDkyejUxZ3Z5ZHBtMXVjcnZ0ZHkxbzUwMWJncGhuM2Y0YXA0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0d3Vb9hvvMKqSlajKp/giphy.gif" width="90%" alt="YNAB Personal Finance Tracker" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+          <img src="https://imgflip.com/gif/afv0cy" width="90%" alt="Team IQ" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
         </a>
         <p>
           Full-stack personal finance tracker with "You Need a Budget" (YNAB) budgeting, budget templates, and transaction management<br/>
