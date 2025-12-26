@@ -69,9 +69,6 @@ My name is Harry and I am a dedicated Software Engineer student residing in Nair
     or normal flow</em>. The project aims to support faster emergency response and improve
     road safety, particularly within the Kenyan road network.
     <br/><br/>
-    The model was <strong>trained in Google Colab</strong> using a deep learning approach and later
-    <strong>deployed with Streamlit</strong> for real-time inference and visualization.
-    <br/><br/>
     <strong>Tech Stack:</strong> Python · Streamlit · MobileNetV2 · TensorFlow · Google Colab · VS Code
   </p>
 
