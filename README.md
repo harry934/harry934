@@ -5,6 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=lizardcat&style=for-the-badge&color=blueviolet" alt="profile views"/>
+ 
 </p>
 
 <p>
@@ -75,7 +76,7 @@ My name is Harry and I am a dedicated Software Engineer student residing in Nair
   </tr>
 </table>
 
-<h1 align="center">🧙‍♂️ Arcana</h1>
+<h1 align="center">🧙‍♂️ Tech Stack</h1>
 
 <div align="center">
   <!-- Languages -->
