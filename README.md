@@ -37,7 +37,7 @@ My name is Harry and I am a dedicated Software Engineer student residing in Nair
     </td>
     <td width="50%" valign="top" align="center">
       <h3>🧠Team IQ</h3>
-      <a href="https://harry0tieno.netlify.app/">
+      <a href="https://teamiq-1b7be.web.app/">
         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3d0cjV4d2I5ZWNzOXB6ZXZlNnNwbzU1dXNqNXZvcG5od2lobzBsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/byZUF8KavKKDa131FJ/giphy.gif" width="90%" alt="Team IQ" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
       <p>
