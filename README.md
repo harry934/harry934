@@ -64,7 +64,7 @@ My name is Harry and I am a dedicated Software Engineer student residing in Nair
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZvMHFpbWtkMms0bDAwZ3JpZXZvY2UxaXdkMjR4NTRyZXEybnRlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lPrZAdsDJVs4hcXHVi/giphy.gif" width="90%" alt="Emergency Response ML Demo" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
       <p>
-        <strong>Emergency Response ML</strong> is a machine learning–based system designed to analyze road camera images and classify traffic conditions such as <em>accidents, heavy traffic, or normal flow</em>. The project aims to support faster emergency response and improve road safety, particularly within the Kenyan road network.
+        <strong>Emergency Response ML</strong> is a machine learning–based system designed to analyze road camera images/videos and classify traffic conditions such as <em>accidents, heavy traffic, or normal flow</em>. The project aims to support faster emergency response and improve road safety, particularly within the Kenyan road network.
         <br/><br/>
         <strong>Tech Stack:</strong> Python · Streamlit · MobileNetV2 · TensorFlow · Google Colab · VS Code
       </p>
