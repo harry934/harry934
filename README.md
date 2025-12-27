@@ -1,4 +1,4 @@
-<h1 align="center">Hello!</h1>
+<h1 align="center">─── ⋆⋅☆⋅⋆ ── </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/h-o-mokaya-0949a2362/">
@@ -15,7 +15,7 @@
 My name is Harry and I am a dedicated Software Engineer student residing in Nairobi. My passion for technology and innovation fuels my commitment to creating impactful solutions for real communities. I have a particular interest in developing innovative solutions.
 </p>
 
-<h1 align="center">Projects</h1>
+<h1 align="center">🗃️Projects</h1>
 
 <table>
   <tr>
