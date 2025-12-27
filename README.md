@@ -74,6 +74,24 @@ My name is Harry and I am a dedicated Software Engineer student residing in Nair
         <img src="https://img.shields.io/badge/LIVE_DEMO-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
       </a>
     </td>
+    <td width="50%" valign="top" align="center">
+      <h3>Children's Home Page</h3>
+      <a href="https://emergencyresponsee.streamlit.app/">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZvMHFpbWtkMms0bDAwZ3JpZXZvY2UxaXdkMjR4NTRyZXEybnRlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lPrZAdsDJVs4hcXHVi/giphy.gif" width="90%" alt="Children's Home" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+      </a>
+      <p>
+        <strong>Emergency Response ML</strong> uses machine learning model to analyze road camera footage and identify <em>accidents, heavy traffic, or normal flow</em>, supporting faster emergency response and improved road safety in Kenya.
+        <br/><br/>
+        <strong>Tech Stack:</strong> Python · Streamlit · MobileNetV2 · TensorFlow · Google Colab · VS Code
+      </p>
+      <a href="https://github.com/harry934/Emergency-Responce">
+        <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/>
+      <a href="https://emergencyresponsee.streamlit.app/">
+        <img src="https://img.shields.io/badge/LIVE_DEMO-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+      </a>
+    </td>
   </tr>
 </table>
 
