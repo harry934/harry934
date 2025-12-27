@@ -29,9 +29,7 @@ My name is Harry and I am a dedicated Software Engineer student residing in Nair
         <br/><br/>
         <strong>Tech Stack:</strong> HTML · CSS · JavaScript
       </p>
-      <a href="https://github.com/harry934/Portfolio">
-        <img src="https://img.shields.io/badge/📁_Private-Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
+    <a href="https://github.com/harry934/Portfolio"> <img src="https://img.shields.io/badge/🔒_Private_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/> </a>
       <br/>
       <a href="https://harry0tieno.netlify.app/">
         <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
