@@ -20,7 +20,7 @@ My name is Harry and I am a dedicated Software Engineer student residing in Nair
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>Portfolio Website</h3>
+      <h3>🔗Portfolio Website</h3>
       <a href="https://harry0tieno.netlify.app/" alt="Portfolio">
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBsYXc3eGdic2kycDd2enh2NDdzYjhtc3d5eGJtaW94ZHMzcDdpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RXwMNzYMfhGfddbhV7/giphy.gif" width="90%" alt="Portfolio" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
@@ -36,7 +36,7 @@ My name is Harry and I am a dedicated Software Engineer student residing in Nair
       </a>
     </td>
     <td width="50%" valign="top" align="center">
-      <h3>Team IQ</h3>
+      <h3>🧠Team IQ</h3>
       <a href="https://harry0tieno.netlify.app/">
         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3d0cjV4d2I5ZWNzOXB6ZXZlNnNwbzU1dXNqNXZvcG5od2lobzBsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/byZUF8KavKKDa131FJ/giphy.gif" width="90%" alt="Team IQ" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
@@ -57,7 +57,7 @@ My name is Harry and I am a dedicated Software Engineer student residing in Nair
 
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>Emergency Response ML</h3>
+      <h3>⛑️Emergency Response ML</h3>
       <a href="https://emergencyresponsee.streamlit.app/">
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZvMHFpbWtkMms0bDAwZ3JpZXZvY2UxaXdkMjR4NTRyZXEybnRlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lPrZAdsDJVs4hcXHVi/giphy.gif" width="90%" alt="Emergency Response ML Demo" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
