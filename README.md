@@ -25,7 +25,7 @@ My name is Harry and I am a dedicated Software Engineer student residing in Nair
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBsYXc3eGdic2kycDd2enh2NDdzYjhtc3d5eGJtaW94ZHMzcDdpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RXwMNzYMfhGfddbhV7/giphy.gif" width="90%" alt="Portfolio" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
       <p>
-        This is my website portfolio. I've been updating my skills and projects I've worked on. I'm hoping to connect with young innovators like me and work towards building something amazing.
+        This is my simple website portfolio. I've been updating my skills, my interests and projects I've worked on.
         <br/><br/>
         <strong>Tech Stack:</strong> HTML · CSS · JavaScript
       </p>
@@ -43,7 +43,7 @@ My name is Harry and I am a dedicated Software Engineer student residing in Nair
         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3d0cjV4d2I5ZWNzOXB6ZXZlNnNwbzU1dXNqNXZvcG5od2lobzBsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/byZUF8KavKKDa131FJ/giphy.gif" width="90%" alt="Team IQ" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
       <p>
-        <strong>TEAM IQ</strong> is a proposed platform designed to showcase how young innovators develop and refine creative ideas. Projects are submitted for review and matched with professional guidance and mentorship to support growth and real-world impact.
+        <strong>TEAM IQ</strong> is a proposed platform designed to showcase how young innovators develop and refine creative ideas.
         <br/><br/>
         <strong>Tech Stack:</strong> HTML · CSS · JavaScript · React
       </p>
