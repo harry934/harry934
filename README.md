@@ -12,16 +12,16 @@
 </p>
 
 <p>
-My name is Harry and I am a dedicated Software Engineer student residing in Nairobi, with roots in Migori county. My passion for technology and innovation fuels my commitment to creating impactful solutions for real communities. I have accumulated a wealth of experience in various fields, including software engineering, machine learning, Android development, and web development. I have a particular interest in developing innovative solutions.
+My name is Harry and I am a dedicated Software Engineer student residing in Nairobi. My passion for technology and innovation fuels my commitment to creating impactful solutions for real communities. I have a particular interest in developing innovative solutions.
 </p>
 
-<h1 align="center">Ongoing Projects</h1>
+<h1 align="center">Projects</h1>
 
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>Personal Portfolio Website</h3>
-      <a href="https://harry0tieno.netlify.app/">
+      <h3>Portfolio Website</h3>
+      <a href="https://harry0tieno.netlify.app/" alt="Portfolio">
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBsYXc3eGdic2kycDd2enh2NDdzYjhtc3d5eGJtaW94ZHMzcDdpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RXwMNzYMfhGfddbhV7/giphy.gif" width="90%" alt="Portfolio" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
       <p>
