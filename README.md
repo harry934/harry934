@@ -104,7 +104,7 @@ My name is Harry and I am a dedicated Software Engineer student residing in Nair
   <h3>📲 M-Pesa STK Push Integration</h3>
   <a href="https://children-home.onrender.com/">
  <img 
-    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxzNGJnZnI3OWU3eWhjbWJ5Y2w3azhheWZ5azl4Z3V5NjN6ZTVvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BQooLClng3Q4AiC5hb/giphy.gif"
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JqcTN6cWt5OWpyOTIyczhxY3h1cHphbTVybDd2OGs5ZDJtYmxxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dOKot4fwhzRroVuC7O/giphy.gif"
     width="90%" 
     alt="Watch Children’s Home Platform Demo"
     style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2); cursor:pointer;"
@@ -120,7 +120,7 @@ VS Code · HTML · CSS · JavaScript · M-Pesa Daraja API
         <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       <br/>
-      <a href="">
+      <a href="https://stkmpesa.netlify.app/">
          <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
       </a>
 </table>
