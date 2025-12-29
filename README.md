@@ -116,6 +116,13 @@ This project implements a simple M-Pesa STK Push flow using the Safaricom Daraja
 <strong>Tech Stack:</strong><br/>
 VS Code · HTML · CSS · JavaScript · M-Pesa Daraja API
 </p>
+<a href="">
+        <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/>
+      <a href="">
+         <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+      </a>
 </table>
 
 <h1 align="center">🧙‍♂️ Tech Stack</h1>
