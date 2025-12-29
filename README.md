@@ -99,6 +99,21 @@ My name is Harry and I am a dedicated Software Engineer student residing in Nair
 </a>
     </td>
   </tr>
+   <tr>
+<td width="50%" valign="top" align="center">
+  <h3>📲 M-Pesa STK Push Integration</h3>
+
+<p>
+This project implements a simple M-Pesa STK Push flow using the Safaricom Daraja API.
+</p>
+<p>
+<strong>Purpose:</strong><br/>
+To showcase a basic and functional STK Push integration for learning and demonstration.
+</p>
+<p>
+<strong>Tech Stack:</strong><br/>
+VS Code · HTML · CSS · JavaScript · M-Pesa Daraja API
+</p>
 </table>
 
 <h1 align="center">🧙‍♂️ Tech Stack</h1>
