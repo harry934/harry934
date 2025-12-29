@@ -102,7 +102,7 @@ My name is Harry and I am a dedicated Software Engineer student residing in Nair
    <tr>
 <td width="50%" valign="top" align="center">
   <h3>📲 M-Pesa STK Push Integration</h3>
-  <a href="https://children-home.onrender.com/">
+  <a href="https://stkmpesa.netlify.app/">
  <img 
     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JqcTN6cWt5OWpyOTIyczhxY3h1cHphbTVybDd2OGs5ZDJtYmxxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dOKot4fwhzRroVuC7O/giphy.gif"
     width="90%" 
