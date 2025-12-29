@@ -102,15 +102,17 @@ My name is Harry and I am a dedicated Software Engineer student residing in Nair
    <tr>
 <td width="50%" valign="top" align="center">
   <h3>📲 M-Pesa STK Push Integration</h3>
-
+  <a href="https://children-home.onrender.com/">
+ <img 
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxzNGJnZnI3OWU3eWhjbWJ5Y2w3azhheWZ5azl4Z3V5NjN6ZTVvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BQooLClng3Q4AiC5hb/giphy.gif"
+    width="90%" 
+    alt="Watch Children’s Home Platform Demo"
+    style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2); cursor:pointer;"
+  />
+</a>
 <p>
 This project implements a simple M-Pesa STK Push flow using the Safaricom Daraja API.
-</p>
-<p>
-<strong>Purpose:</strong><br/>
-To showcase a basic and functional STK Push integration for learning and demonstration.
-</p>
-<p>
+<br/><br/>
 <strong>Tech Stack:</strong><br/>
 VS Code · HTML · CSS · JavaScript · M-Pesa Daraja API
 </p>
