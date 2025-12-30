@@ -9,10 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=lizardcat&style=for-the-badge&color=blueviolet" alt="profile views"/>
  
 </p>
-
-<p align="center>
-My name is Harry and I am a dedicated Software Engineer student residing in Nairobi. My passion for technology and innovation fuels my commitment to creating impactful solutions for real communities. I have a particular interest in developing innovative solutions.<br/>
-</p>
+<h3 align="center">My name is Harry and I am a dedicated Software Engineer student residing in Nairobi. My passion for technology and innovation fuels my commitment to creating impactful solutions for real communities. I have a particular interest in developing innovative solutions.</h3>
 
 <h1 align="center">🗃️Projects</h1>
 
