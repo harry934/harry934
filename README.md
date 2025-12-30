@@ -157,8 +157,9 @@ VS Code · HTML · CSS · JavaScript · M-Pesa Daraja API
   ![Google_Colab](https://img.shields.io/badge/Google_Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=black)
   
 </div>
-
-### Dev Quote
+<h1 align="center"> </>Dev Quote </h1>
+<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 [![](https://visitcount.itsvg.in/api?id=harry934&icon=3&color=0)](https://visitcount.itsvg.in)
+</div>
