@@ -159,6 +159,7 @@ VS Code · HTML · CSS · JavaScript · M-Pesa Daraja API
 </div>
 <h1 align="center"> </>Dev Quote </h1>
 <div align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 [![](https://visitcount.itsvg.in/api?id=harry934&icon=3&color=0)](https://visitcount.itsvg.in)
