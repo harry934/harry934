@@ -114,7 +114,7 @@ This project implements a simple M-Pesa STK Push flow using the Safaricom Daraja
 VS Code · HTML · CSS · JavaScript · M-Pesa Daraja API
 </p>
 <a href="https://github.com/harry934/SimpleMpesa-STK">
-        <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/🔒_Private_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       <br/>
       <a href="https://stkmpesa.netlify.app/">
