@@ -120,6 +120,33 @@ VS Code · HTML · CSS · JavaScript · M-Pesa Daraja API
       <a href="https://stkmpesa.netlify.app/">
          <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
       </a>
+  </td>
+         <td width="50%" valign="top" align="center">
+   <h3>🎀Children’s Home Support Platform</h3>
+<a href="https://children-home.onrender.com/">
+ <img 
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxzNGJnZnI3OWU3eWhjbWJ5Y2w3azhheWZ5azl4Z3V5NjN6ZTVvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BQooLClng3Q4AiC5hb/giphy.gif"
+    width="90%" 
+    alt="Watch Children’s Home Platform Demo"
+    style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2); cursor:pointer;"
+  />
+</a>
+<p>
+  <strong>Children’s Home Support Platform</strong> is a web-based platform built to 
+  <em>facilitate donations and support child sponsorship programs</em> 
+  for a children’s home.
+  <br/><br/>
+        <strong>Tech Stack:</strong> VS Code · HTML · CSS · JavaScript · M-Pesa Daraja API
+      </p>
+      <a href="https://github.com/harry934/Children-Home">
+        <img src="https://img.shields.io/badge/🔒_Private_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/>
+<a href="https://children-home.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+</a>
+    </td>
+  </tr>
 </table>
 
 <h1 align="center">🧙‍♂️ Tech Stack</h1>
