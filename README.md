@@ -141,9 +141,6 @@ VS Code · HTML · CSS · JavaScript · M-Pesa Daraja API
         <img src="https://img.shields.io/badge/🔒_Private_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       <br/>
-<a href="" target="_blank">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-</a>
     </td>
   </tr>
   <tr>
@@ -158,7 +155,7 @@ VS Code · HTML · CSS · JavaScript · M-Pesa Daraja API
   />
 </a>
 <p>
-  <strong>Children’s Home Support Platform</strong> is a movile application built to 
+  <strong>Children’s Home Support Platform</strong> is a mobile application built to 
   <em>facilitate donations and support child sponsorship programs</em> 
   for a children’s home.
   <br/><br/>
@@ -168,9 +165,6 @@ VS Code · HTML · CSS · JavaScript · M-Pesa Daraja API
         <img src="https://img.shields.io/badge/🔒_Private_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       <br/>
-<a href="" target="_blank">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-</a>
     </td>
   </tr>
 </table>
