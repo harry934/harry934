@@ -132,9 +132,8 @@ VS Code · HTML · CSS · JavaScript · M-Pesa Daraja API
   />
 </a>
 <p>
- <strong>Pizza Chick n Crust Online Ordering Platform</strong> is a web-based restaurant system 
-  designed to allow customers around the USIU area to browse the menu, place food orders, 
-  and complete payments seamlessly using <em>M-Pesa STK Push</em>.
+ The <strong>Online Ordering Platform</strong> is a web-based restaurant system 
+  designed to allow customers around the school area to place food orders and complete payments seamlessly using <em>M-Pesa STK Push</em>.
 <br/><br/>
   <strong>Tech Stack:</strong> VS Code · HTML · CSS · JavaScript
       </p>
