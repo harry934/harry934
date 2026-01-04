@@ -123,11 +123,11 @@ VS Code · HTML · CSS · JavaScript · M-Pesa Daraja API
   </td>
          <td width="50%" valign="top" align="center">
    <h3>Online Ordering Platform (In Progress)</h3>
-<a href="">
+<a href="https://children-home.onrender.com/">
  <img 
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29sbHVqd2d5Nzl4eXE0azZmcDhrZWQ3cDRkYzAwbWJtZnowOGNwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZgTPZ7vRJPBcAylJdf/giphy.gif"
     width="90%" 
-    alt="Pizza Chick n Crust"
+    alt="Online Ordering Platform (In Progress)"
     style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2); cursor:pointer;"
   />
 </a>
