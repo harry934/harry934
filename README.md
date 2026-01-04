@@ -122,7 +122,7 @@ VS Code · HTML · CSS · JavaScript · M-Pesa Daraja API
       </a>
   </td>
          <td width="50%" valign="top" align="center">
-   <h3>Restaurant Webpage... in progress</h3>
+   <h3>Online Ordering Platform (In Progress)</h3>
 <a href="">
  <img 
     src=""
@@ -132,11 +132,11 @@ VS Code · HTML · CSS · JavaScript · M-Pesa Daraja API
   />
 </a>
 <p>
-  <strong>Children’s Home Support Platform</strong> is a web-based platform built to 
-  <em>facilitate donations and support child sponsorship programs</em> 
-  for a children’s home.
-  <br/><br/>
-        <strong>Tech Stack:</strong> VS Code · HTML · CSS · JavaScript
+ <strong>Pizza Chick n Crust Online Ordering Platform</strong> is a web-based restaurant system 
+  designed to allow customers around the USIU area to browse the menu, place food orders, 
+  and complete payments seamlessly using <em>M-Pesa STK Push</em>.
+<br/><br/>
+  <strong>Tech Stack:</strong> VS Code · HTML · CSS · JavaScript
       </p>
       <a href="">
         <img src="https://img.shields.io/badge/🔒_Private_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
