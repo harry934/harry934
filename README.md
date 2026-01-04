@@ -127,7 +127,7 @@ VS Code · HTML · CSS · JavaScript · M-Pesa Daraja API
  <img 
     src=""
     width="90%" 
-    alt="Restaurant Webpage"
+    alt="...In progress"
     style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2); cursor:pointer;"
   />
 </a>
@@ -154,7 +154,7 @@ VS Code · HTML · CSS · JavaScript · M-Pesa Daraja API
  <img 
     src=""
     width="90%" 
-    alt="Restaurant Webpage"
+    alt="...In progress"
     style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2); cursor:pointer;"
   />
 </a>
