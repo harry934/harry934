@@ -123,7 +123,7 @@ VS Code · HTML · CSS · JavaScript · M-Pesa Daraja API
   </td>
          <td width="50%" valign="top" align="center">
    <h3>🍕Online Ordering Platform (In Progress)</h3>
-<a href="https://children-home.onrender.com/">
+<a href="https://pizzachickncrust.up.railway.app/">
  <img 
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29sbHVqd2d5Nzl4eXE0azZmcDhrZWQ3cDRkYzAwbWJtZnowOGNwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZgTPZ7vRJPBcAylJdf/giphy.gif"
     width="90%" 
@@ -137,10 +137,13 @@ VS Code · HTML · CSS · JavaScript · M-Pesa Daraja API
 <br/><br/>
   <strong>Tech Stack:</strong> VS Code · HTML · CSS · JavaScript
       </p>
-      <a href="">
+      <a href="https://github.com/harry934/Restaurant">
         <img src="https://img.shields.io/badge/🔒_Private_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       <br/>
+    <a href="https://pizzachickncrust.up.railway.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-Railway-0B0D17?style=for-the-badge&logo=railway&logoColor=white"/>
+  </a>
     </td>
   </tr>
   <tr>
