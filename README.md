@@ -133,7 +133,7 @@ VS Code · HTML · CSS · JavaScript · M-Pesa Daraja API
 </a>
 <p>
  The <strong>Online Ordering Platform</strong> is a web-based restaurant system 
-  designed to allow customers around the school area to place food orders and complete payments seamlessly using <em>M-Pesa STK Push</em>.
+  designed to allow customers around the school area to place food orders and complete payments seamlessly.
 <br/><br/>
   <strong>Tech Stack:</strong> VS Code · HTML · CSS · JavaScript
       </p>
