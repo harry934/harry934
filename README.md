@@ -122,7 +122,7 @@ VS Code · HTML · CSS · JavaScript · M-Pesa Daraja API
       </a>
   </td>
          <td width="50%" valign="top" align="center">
-   <h3>🍕Online Ordering Platform (In Progress)</h3>
+   <h3>🍕Online Food Ordering Platform </h3>
 <a href="https://pizzachickncrust.up.railway.app/">
  <img 
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29sbHVqd2d5Nzl4eXE0azZmcDhrZWQ3cDRkYzAwbWJtZnowOGNwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZgTPZ7vRJPBcAylJdf/giphy.gif"
