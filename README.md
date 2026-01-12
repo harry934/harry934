@@ -127,7 +127,7 @@ VS Code · HTML · CSS · JavaScript · M-Pesa Daraja API
  <img 
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29sbHVqd2d5Nzl4eXE0azZmcDhrZWQ3cDRkYzAwbWJtZnowOGNwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZgTPZ7vRJPBcAylJdf/giphy.gif"
     width="90%" 
-    alt="Online Ordering Platform (In Progress)"
+    alt="Online Ordering Platform"
     style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2); cursor:pointer;"
   />
 </a>
