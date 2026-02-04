@@ -32,12 +32,12 @@
       </a>
     </td>
     <td width="50%" valign="top" align="center">
-      <h3>🧠Team IQ</h3>
+      <h3>🧠Innovate Hub</h3>
       <a href="https://teamiq-1b7be.web.app/">
         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3d0cjV4d2I5ZWNzOXB6ZXZlNnNwbzU1dXNqNXZvcG5od2lobzBsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/byZUF8KavKKDa131FJ/giphy.gif" width="90%" alt="Team IQ" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
       <p>
-        <strong>TEAM IQ</strong> is a proposed platform designed to showcase how young innovators develop and refine creative ideas.
+        <strong>Innovate Hub</strong> is a proposed platform designed to showcase how young innovators develop and refine creative ideas.
         <br/><br/>
         <strong>Tech Stack:</strong> HTML · CSS · JavaScript · React
       </p>
