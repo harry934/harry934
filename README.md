@@ -1,16 +1,6 @@
 <h1 align="center"> ─── ⋆⋅☆⋅⋆ ── </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-?font=Fira+Code
-&size=28
-&pause=1000
-&color=7F3ACE
-&center=true
-&vCenter=true
-&width=750
-&lines=Hello+my+name+is+Harry;I'm+a+Software+Engineer
-&cursor=|
-" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7F3ACE&center=true&vCenter=true&width=750&lines=Hello+my+name+is+Harry;I'm+a+Software+Engineer&cursor=|" alt="Typing SVG" />
 </p>
 
 <p align="center">
