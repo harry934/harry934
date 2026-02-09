@@ -1,7 +1,8 @@
 <h1 align="center"> ─── ⋆⋅☆⋅⋆ ── </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7F3ACE&center=true&vCenter=true&width=750&lines=Hello+my+name+is+Harry;I'm+a+Software+Engineer+Fitness+Enthusiast+Web+Developer+Aspiring+Cyber+Security+Engineer&cursor=|" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hello+my+name+is+Harry;I'm+a+Software+Engineer;Fitness+Enthusiast;Web+Developer;Aspiring+Cyber+Security+Engineer&cursor=|" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <a href="https://linktr.ee/ha_rry_">
