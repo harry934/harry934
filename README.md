@@ -1,15 +1,16 @@
 <h1 align="center"> ─── ⋆⋅☆⋅⋆ ── </h1>
 <p align="center">
+  <a href="https://linktr.ee/ha_rry_">
+    <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/h-o-mokaya-0949a2362/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://bsky.app/profile/mystiqv.bsky.social">
-    <img src="https://img.shields.io/badge/-Bluesky-0055FF?style=for-the-badge&logo=bluesky&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bluesky-0055FF?style=for-the-badge&logo=bluesky&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=lizardcat&style=for-the-badge&color=blueviolet" alt="profile views"/>
- 
 </p>
-<p align="center">My name is Harry and I am a dedicated Software Engineer student residing in Nairobi. My passion for technology and innovation fuels my commitment to creating impactful solutions for real communities. I have a particular interest in developing innovative solutions.</p>
 
 <h1 align="center">🦄 Projects</h1>
 
