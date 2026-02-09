@@ -1,5 +1,19 @@
 <h1 align="center"> ─── ⋆⋅☆⋅⋆ ── </h1>
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com
+?font=Fira+Code
+&size=28
+&pause=1000
+&color=7F3ACE
+&center=true
+&vCenter=true
+&width=750
+&lines=Hello+my+name+is+Harry;I'm+a+Software+Engineer
+&cursor=|
+" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://linktr.ee/ha_rry_">
     <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
