@@ -1,6 +1,6 @@
 <h1 align="center"> ─── ⋆⋅☆⋅⋆ ── </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+profile;My+name+is+Harry;Software+Engineer;Fitness+Enthusiast;Web+Developer;Aspiring+Cybersecurity+Engineer&cursor=|" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+profile;My+name+is+Harry;Software+Engineer;Fitness+Enthusiast;Web+Developer;Aspiring+Cybersecurity+Engineer&cursor=|" />
 </p>
 
 
