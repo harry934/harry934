@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+profile;My+name+is+Harry;Software+Engineer;Fitness+Enthusiast;Web+Developer;Aspiring+Cybersecurity+Engineer&cursor=|" />
 </p>
 
-
 <p align="center">
   <a href="https://linktr.ee/ha_rry_">
     <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" />
