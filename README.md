@@ -59,25 +59,12 @@
       </a>
 <!-- Previous Versions Collapsible -->
   <details style="width:85%;">
-<summary style="cursor:pointer; list-style:none; padding:20px 0;">
-  <div align="center">
-<span style="
-      display:inline-block;
-      padding:12px 26px;
-      font-size:15px;
-      font-weight:600;
-      letter-spacing:0.5px;
-      border-radius:50px;
-      background:linear-gradient(135deg,#7f5af0,#2cb67d);
-      color:white;
-      box-shadow:0 4px 14px rgba(0,0,0,0.15);">
-      Project Archive • Previous Versions
-    </span>
- <br/><br/>
- <span style="font-size:13px; color:#6e7781;">
-      Explore the evolution of Innovate Hub
-    </span>
-</div>
+    <summary style="cursor:pointer; padding:18px 0; font-size:17px;">
+  <img src="https://img.shields.io/badge/PROJECT_ARCHIVE-Previous_Versions-6f42c1?style=for-the-badge&logo=github&logoColor=white" />
+  <br/>
+  <span style="font-size:14px; color:#6e7781;">
+    Click to explore earlier builds & development milestones
+  </span>
 </summary>
 <div style="margin-top:20px;">
       <hr style="border:0; height:1px; background:#e1e4e8; width:70%;">
