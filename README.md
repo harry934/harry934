@@ -39,8 +39,7 @@
         <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
       </a>
     </td>
-
-    <!-- Innovate Hub -->
+ <!-- Innovate Hub -->
     <td width="50%" valign="top" align="center">
       <h3>🧠 Innovate Hub</h3>
       <a href="https://innovations-b1a19.web.app/">
@@ -58,13 +57,11 @@
       <a href="https://innovations-b1a19.web.app/">
         <img src="https://img.shields.io/badge/LIVE_DEMO-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
       </a>
-
-      <!-- Previous Versions Collapsible -->
+<!-- Previous Versions Collapsible -->
       <details>
         <summary>⬇️ View Previous Versions</summary>
         <br/>
-
-        <h4>💾 Innovate Hub v1.0</h4>
+ <h4>💾 Innovate Hub v1.0</h4>
         <a href="https://innovatehub-v1.netlify.app/">
           <img src="https://media.giphy.com/media/old-version-gif-1/giphy.gif" width="80%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
         </a>
@@ -78,8 +75,7 @@
             <img src="https://img.shields.io/badge/LIVE_DEMO-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
           </a>
         </p>
-
-        <h4>💡 Innovate Hub v2.0</h4>
+<h4>💡 Innovate Hub v2.0</h4>
         <a href="https://old-innovatehub-v2.web.app/">
           <img src="https://media.giphy.com/media/old-version-gif-2/giphy.gif" width="80%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
         </a>
@@ -118,8 +114,7 @@
         <img src="https://img.shields.io/badge/LIVE_DEMO-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
       </a>
     </td>
-
-    <!-- Children’s Home Support Platform -->
+<!-- Children’s Home Support Platform -->
     <td width="50%" valign="top" align="center">
       <h3>🎀 Children’s Home Support Platform</h3>
       <a href="https://children-home.onrender.com/">
@@ -161,8 +156,7 @@
         <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
       </a>
     </td>
-
-    <!-- Online Food Ordering -->
+<!-- Online Food Ordering -->
     <td width="50%" valign="top" align="center">
       <h3>🍕 Online Food Ordering Platform</h3>
       <a href="https://pizzachickncrust.up.railway.app/">
@@ -182,7 +176,6 @@
       </a>
     </td>
   </tr>
-
   <!-- Fourth row: Mobile app in progress -->
   <tr>
     <td width="50%" valign="top" align="center">
