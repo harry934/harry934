@@ -48,7 +48,7 @@ This is my simple website portfolio where I showcase my skills, interests and pr
 
 <!-- CURRENT VERSION -->
 <a href="https://teamiq-1b7be.web.app/">
-<img src="https://media.giphy.com/media/byZUF8KavKKDa131FJ/giphy.gif" width="90%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+<img src="https://media.giphy.com/media/b0EnJFv8e7vAasW2ru/giphy.gif" width="90%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
 </a>
 
 <p>
