@@ -59,9 +59,13 @@
       </a>
 <!-- Previous Versions Collapsible -->
   <details style="width:85%;">
-   <summary style="cursor:pointer; padding:16px 0; font-size:17px; letter-spacing:0.3px;">
-  <span style="font-weight:600;">Project History</span>
-  <span style="color:#6e7781; font-weight:400;"> · Previous Releases & Iterations</span>
+  <summary style="cursor:pointer; padding:18px 0; font-size:17px;">
+  <div style="display:inline-block;">
+    <div style="font-weight:600;">Project Archive</div>
+    <div style="font-size:14px; color:#6e7781; margin-top:2px;">
+      View previous builds and development milestones
+    </div>
+  </div>
 </summary>
 <div style="margin-top:20px;">
       <hr style="border:0; height:1px; background:#e1e4e8; width:70%;">
