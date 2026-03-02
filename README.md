@@ -59,8 +59,9 @@
       </a>
 <!-- Previous Versions Collapsible -->
   <details style="width:85%;">
-  <summary style="cursor:pointer; padding:18px 0; font-size:17px; font-weight:600; letter-spacing:0.3px;">
-  View Previous Versions <span style="margin-left:6px;">▾</span>
+ <summary style="cursor:pointer; padding:20px 0; font-size:17px; font-weight:600;">
+  <span style="color:#6f42c1;">View Previous Versions</span>
+  <span style="margin-left:8px;">▾</span>
 </summary>
     
 <div style="margin-top:20px;">
