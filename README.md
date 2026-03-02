@@ -13,10 +13,59 @@
 
 ---
 
+# Innovate Hub Versions
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### Innovate Hub v1
+<img src="https://media.giphy.com/media/byZUF8KavKKDa131FJ/giphy.gif" width="95%">
+
+<p>
+First version of Innovate Hub showcasing collaborative idea development for young innovators.
+<br><br>
+<strong>Tech Stack:</strong> HTML · CSS · JavaScript · React
+</p>
+
+<a href="https://github.com/harry934/TeamIQ">
+<img src="https://img.shields.io/badge/Repo-GitHub-24292e?style=for-the-badge&logo=github">
+</a>
+<br>
+<a href="https://teamiq-1b7be.web.app/">
+<img src="https://img.shields.io/badge/Live_Demo-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### Innovate Hub v2
+<img src="https://media.giphy.com/media/byZUF8KavKKDa131FJ/giphy.gif" width="95%">
+
+<p>
+Refined version of Innovate Hub with improved UI, version tracking, and collaboration features.
+<br><br>
+<strong>Tech Stack:</strong> HTML · CSS · JavaScript · React
+</p>
+
+<a href="https://github.com/harry934/TeamIQ">
+<img src="https://img.shields.io/badge/Repo-GitHub-24292e?style=for-the-badge&logo=github">
+</a>
+<br>
+<a href="https://teamiq-1b7be.web.app/">
+<img src="https://img.shields.io/badge/Live_Demo-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
 # Projects
 
 <table>
-
 <tr>
 <td width="50%" align="center">
 
@@ -41,29 +90,6 @@ Personal portfolio website highlighting skills, projects, and career growth.
 
 <td width="50%" align="center">
 
-### Innovate Hub
-<img src="https://media.giphy.com/media/byZUF8KavKKDa131FJ/giphy.gif" width="95%">
-
-<p>
-Platform showcasing how innovators create, test, and refine ideas collaboratively.
-<br><br>
-<strong>Tech Stack:</strong> HTML · CSS · JavaScript · React
-</p>
-
-<a href="https://github.com/harry934/TeamIQ">
-<img src="https://img.shields.io/badge/Repo-GitHub-24292e?style=for-the-badge&logo=github">
-</a>
-<br>
-<a href="https://teamiq-1b7be.web.app/">
-<img src="https://img.shields.io/badge/Live_Demo-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
 ### Emergency Response ML
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZvMHFpbWtkMms0bDAwZ3JpZXZvY2UxaXdkMjR4NTRyZXEybnRlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lPrZAdsDJVs4hcXHVi/giphy.gif" width="95%">
 
@@ -82,7 +108,9 @@ AI system analyzing road camera footage to detect accidents, heavy traffic, or n
 </a>
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" align="center">
 
 ### Children’s Home Support Platform
@@ -103,9 +131,7 @@ Web platform enabling donations and child sponsorship programs for children’s 
 </a>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" align="center">
 
 ### M-Pesa STK Push Integration
@@ -126,7 +152,9 @@ Secure mobile payment flow implemented using Safaricom Daraja API.
 </a>
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" align="center">
 
 ### Online Food Ordering Platform
@@ -147,9 +175,7 @@ Web-based restaurant system allowing customers to place orders and pay online.
 </a>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" align="center">
 
 ### Children’s Home Mobile App (In Progress)
@@ -170,7 +196,6 @@ Mobile application to facilitate donations and child sponsorship for children’
 </a>
 
 </td>
-<td></td>
 </tr>
 
 </table>
@@ -209,6 +234,8 @@ Mobile application to facilitate donations and child sponsorship for children’
 ![Google_Colab](https://img.shields.io/badge/Google_Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=black)
 
 </div>
+
+---
 
 <h1 align="center">Dev Quote</h1>
 
