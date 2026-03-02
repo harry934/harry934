@@ -59,11 +59,21 @@
       </a>
 <!-- Previous Versions Collapsible -->
   <details style="width:85%;">
-    <summary style="cursor:pointer; padding:20px 0; text-align:center; list-style:none;">
-  <span style="display:inline-block;">
-    <img 
-    src=""alt="Project Archive"style="pointer-events:none;"/>
+ <summary style="cursor:pointer; padding:20px 0; text-align:center; list-style:none;">
+  <div>
+    <!-- Collapsed State -->
+  <span>
+      <img 
+        src="https://img.shields.io/badge/PROJECT_ARCHIVE-Previous_Versions-6f42c1?style=for-the-badge&logo=github&logoColor=white"
+        alt="Project Archive"
+        style="pointer-events:none;"
+      />
   </span>
+
+<div style="font-size:14px; color:#6e7781; margin-top:8px;">
+      ▼ Click to explore earlier builds & development milestones
+    </div>
+  </div>
 </summary>
     
 <div style="margin-top:20px;">
