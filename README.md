@@ -60,10 +60,8 @@
 <!-- Previous Versions Collapsible -->
   <details style="width:85%;">
 <summary style="cursor:pointer; list-style:none; padding:20px 0;">
-
   <div align="center">
-
-  <span style="
+<span style="
       display:inline-block;
       padding:12px 26px;
       font-size:15px;
@@ -72,19 +70,14 @@
       border-radius:50px;
       background:linear-gradient(135deg,#7f5af0,#2cb67d);
       color:white;
-      box-shadow:0 4px 14px rgba(0,0,0,0.15);
-    ">
+      box-shadow:0 4px 14px rgba(0,0,0,0.15);">
       Project Archive • Previous Versions
     </span>
-
-  <br/><br/>
-
-  <span style="font-size:13px; color:#6e7781;">
+ <br/><br/>
+ <span style="font-size:13px; color:#6e7781;">
       Explore the evolution of Innovate Hub
     </span>
-
-  </div>
-
+</div>
 </summary>
 <div style="margin-top:20px;">
       <hr style="border:0; height:1px; background:#e1e4e8; width:70%;">
