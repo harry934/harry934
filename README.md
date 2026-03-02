@@ -153,7 +153,7 @@ VS Code · HTML · CSS · JavaScript · M-Pesa Daraja API
   </tr>
   <tr>
      <td width="50%" valign="top" align="center">
-   <h3>Children's Home Donation & Support App... in progress</h3>
+   <h3>Children's Home Donation & Support App(in progress)</h3>
 <a href="">
  <img 
     src=""
@@ -163,10 +163,7 @@ VS Code · HTML · CSS · JavaScript · M-Pesa Daraja API
   />
 </a>
 <p>
-  <strong>Children’s Home Support Platform</strong> is a mobile application built to 
-  <em>facilitate donations and support child sponsorship programs</em> 
-  for a children’s home.
-  <br/><br/>
+ 🚧 Mobile version of children support platform
         <strong>Tech Stack:</strong> Android Studio · Java
       </p>
       <a href="">
