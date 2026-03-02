@@ -37,12 +37,12 @@
       </a>
     </td>
     <td width="50%" valign="top" align="center">
-      <h3>🧠 Innovate Hub</h3>
+  <h3>🧠 Innovate Hub</h3>
 <a href="https://innovations-b1a19.web.app/">
-  <img src="https://media.giphy.com/media/b0EnJFv8e7vAasW2ru/giphy.gif" width="90%" alt="Team IQ" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+  <img src="https://media.giphy.com/media/b0EnJFv8e7vAasW2ru/giphy.gif" width="90%" alt="Innovate Hub Demo" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
 </a>
 <p>
-  <strong>Innovate Hub</strong> is a proposed platform designed to showcase how young innovators develop and refine creative ideas.
+  <strong>Innovate Hub</strong> is a platform showcasing how young innovators develop and refine creative ideas.
   <br/><br/>
   <strong>Tech Stack:</strong> HTML · CSS · JavaScript · React
 </p>
@@ -54,37 +54,45 @@
   <img src="https://img.shields.io/badge/LIVE_DEMO-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </a>
 
-<!-- Collapsible previous versions -->
+<!-- Collapsible section for previous versions -->
 <details>
   <summary>⬇️ View Previous Versions</summary>
-  
   <br/>
-  
-  <h4>Version 1.0</h4>
-  <a href="https://old-innovatehub-v1.web.app/">
-    <img src="https://media.giphy.com/media/old-version-gif-1/giphy.gif" width="80%" alt="Innovate Hub V1 Demo" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+
+  <!-- Version 1 -->
+  <h4>💾 Innovate Hub v1.0</h4>
+  <a href="https://innovatehub-v1.netlify.app/">
+    <img src="https://media.giphy.com/media/old-version-gif-1/giphy.gif" width="80%" alt="Innovate Hub v1 Demo" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
   </a>
   <p>
-    <strong>Tech Stack:</strong> HTML · CSS · Vanilla JS
-    <br/>
-    <a href="https://github.com/harry934/Project1-USIU-v1">📁 GitHub Repo</a> · 
-    <a href="https://old-innovatehub-v1.web.app/">Live Demo</a>
+    <strong>Tech Stack:</strong> HTML · CSS · JavaScript
+    <br/><br/>
+    <a href="https://github.com/harry934/Project1-USIU-v1">
+      <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="https://innovatehub-v1.netlify.app/">
+      <img src="https://img.shields.io/badge/LIVE_DEMO-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+    </a>
   </p>
-  
-  <h4>Version 2.0</h4>
+
+  <!-- Version 2 -->
+  <h4>💡 Innovate Hub v2.0</h4>
   <a href="https://old-innovatehub-v2.web.app/">
-    <img src="https://media.giphy.com/media/old-version-gif-2/giphy.gif" width="80%" alt="Innovate Hub V2 Demo" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+    <img src="https://media.giphy.com/media/old-version-gif-2/giphy.gif" width="80%" alt="Innovate Hub v2 Demo" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
   </a>
   <p>
     <strong>Tech Stack:</strong> HTML · CSS · React
-    <br/>
-    <a href="https://github.com/harry934/Project1-USIU-v2">📁 GitHub Repo</a> · 
-    <a href="https://old-innovatehub-v2.web.app/">Live Demo</a>
+    <br/><br/>
+    <a href="https://github.com/harry934/Project1-USIU-v2">
+      <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="https://old-innovatehub-v2.web.app/">
+      <img src="https://img.shields.io/badge/LIVE_DEMO-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+    </a>
   </p>
-  
-</details>
-  <tr>
-    <td width="50%" valign="top" align="center">
+
+</details>    
+  <td width="50%" valign="top" align="center">
       <h3>⛑️Emergency Response ML</h3>
       <a href="https://emergencyresponsee.streamlit.app/">
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZvMHFpbWtkMms0bDAwZ3JpZXZvY2UxaXdkMjR4NTRyZXEybnRlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lPrZAdsDJVs4hcXHVi/giphy.gif" width="90%" alt="Emergency Response ML Demo" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
