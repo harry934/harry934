@@ -1,4 +1,4 @@
-<h1 align="center">✦ Harry | Software Engineer ✦</h1>
+<h1 align="center">Harry | Software Engineer</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=700&color=00F5D4&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI+Builder;Creative+Problem+Solver;Cybersecurity+Enthusiast" />
@@ -13,18 +13,18 @@
 
 ---
 
-# 🚀 Projects
+# Projects
 
 <table>
 
 <tr>
 <td width="50%" align="center">
 
-### 🌐 Portfolio
+### Portfolio
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBsYXc3eGdic2kycDd2enh2NDdzYjhtc3d5eGJtaW94ZHMzcDdpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RXwMNzYMfhGfddbhV7/giphy.gif" width="95%">
 
 <p>
-Personal developer portfolio website showcasing skills, projects and technical growth.
+Personal portfolio website highlighting skills, projects, and career growth.
 <br><br>
 <strong>Tech Stack:</strong> HTML · CSS · JavaScript
 </p>
@@ -41,11 +41,11 @@ Personal developer portfolio website showcasing skills, projects and technical g
 
 <td width="50%" align="center">
 
-### 🧠 Innovate Hub (Latest)
+### Innovate Hub
 <img src="https://media.giphy.com/media/byZUF8KavKKDa131FJ/giphy.gif" width="95%">
 
 <p>
-Platform concept demonstrating how innovators develop, test and refine ideas collaboratively.
+Platform showcasing how innovators create, test, and refine ideas collaboratively.
 <br><br>
 <strong>Tech Stack:</strong> HTML · CSS · JavaScript · React
 </p>
@@ -64,55 +64,11 @@ Platform concept demonstrating how innovators develop, test and refine ideas col
 <tr>
 <td width="50%" align="center">
 
-### 🥈 Innovate Hub V2
-<img src="PUT_V2_GIF" width="95%">
-
-<p>
-Second evolution improving UI flow, responsiveness and idea-tracking features.
-<br><br>
-<strong>Tech Stack:</strong> React · CSS · Firebase
-</p>
-
-<a href="V2_REPO">
-<img src="https://img.shields.io/badge/Repo-GitHub-24292e?style=for-the-badge&logo=github">
-</a>
-<br>
-<a href="V2_LIVE">
-<img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=googlechrome">
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-### 🥉 Innovate Hub V1
-<img src="PUT_V1_GIF" width="95%">
-
-<p>
-Initial prototype validating the concept and core interaction model.
-<br><br>
-<strong>Tech Stack:</strong> HTML · CSS · JavaScript
-</p>
-
-<a href="V1_REPO">
-<img src="https://img.shields.io/badge/Repo-GitHub-24292e?style=for-the-badge&logo=github">
-</a>
-<br>
-<a href="V1_LIVE">
-<img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=googlechrome">
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-### 🚨 Emergency Response ML
+### Emergency Response ML
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZvMHFpbWtkMms0bDAwZ3JpZXZvY2UxaXdkMjR4NTRyZXEybnRlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lPrZAdsDJVs4hcXHVi/giphy.gif" width="95%">
 
 <p>
-AI system analyzing road camera footage to detect accidents and traffic conditions.
+AI system analyzing road camera footage to detect accidents, heavy traffic, or normal flow.
 <br><br>
 <strong>Tech Stack:</strong> Python · TensorFlow · Streamlit · MobileNetV2
 </p>
@@ -129,11 +85,11 @@ AI system analyzing road camera footage to detect accidents and traffic conditio
 
 <td width="50%" align="center">
 
-### 🎀 Children’s Home Platform
+### Children’s Home Support Platform
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxzNGJnZnI3OWU3eWhjbWJ5Y2w3azhheWZ5azl4Z3V5NjN6ZTVvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BQooLClng3Q4AiC5hb/giphy.gif" width="95%">
 
 <p>
-Donation platform helping sponsors support children through an interactive web system.
+Web platform enabling donations and child sponsorship programs for children’s homes.
 <br><br>
 <strong>Tech Stack:</strong> HTML · CSS · JavaScript · M-Pesa API
 </p>
@@ -152,11 +108,11 @@ Donation platform helping sponsors support children through an interactive web s
 <tr>
 <td width="50%" align="center">
 
-### 📲 M-Pesa STK Push Integration
+### M-Pesa STK Push Integration
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JqcTN6cWt5OWpyOTIyczhxY3h1cHphbTVybDd2OGs5ZDJtYmxxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dOKot4fwhzRroVuC7O/giphy.gif" width="95%">
 
 <p>
-Implements secure mobile payment checkout using Safaricom Daraja API.
+Secure mobile payment flow implemented using Safaricom Daraja API.
 <br><br>
 <strong>Tech Stack:</strong> HTML · CSS · JavaScript · Daraja API
 </p>
@@ -173,11 +129,11 @@ Implements secure mobile payment checkout using Safaricom Daraja API.
 
 <td width="50%" align="center">
 
-### 🍕 Online Ordering Platform
+### Online Food Ordering Platform
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29sbHVqd2d5Nzl4eXE0azZmcDhrZWQ3cDRkYzAwbWJtZnowOGNwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZgTPZ7vRJPBcAylJdf/giphy.gif" width="95%">
 
 <p>
-Restaurant ordering system allowing customers to browse menu, order and pay online.
+Web-based restaurant system allowing customers to place orders and pay online.
 <br><br>
 <strong>Tech Stack:</strong> HTML · CSS · JavaScript
 </p>
@@ -193,10 +149,73 @@ Restaurant ordering system allowing customers to browse menu, order and pay onli
 </td>
 </tr>
 
+<tr>
+<td width="50%" align="center">
+
+### Children’s Home Mobile App (In Progress)
+<img src="" width="95%" alt="Coming Soon">
+
+<p>
+Mobile application to facilitate donations and child sponsorship for children’s homes.
+<br><br>
+<strong>Tech Stack:</strong> Android Studio · Java
+</p>
+
+<a href="">
+<img src="https://img.shields.io/badge/Repo-GitHub-24292e?style=for-the-badge&logo=github">
+</a>
+<br>
+<a href="">
+<img src="https://img.shields.io/badge/Live_Demo-ComingSoon-999999?style=for-the-badge">
+</a>
+
+</td>
+<td></td>
+</tr>
+
 </table>
 
 ---
 
-<p align="center">
-<i>"I don't just build projects — I engineer experiences."</i>
-</p>
+<h1 align="center">Tech Stack</h1>
+
+<div align="center">
+
+<!-- Languages -->
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<br>
+
+<!-- Frameworks & Libraries -->
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+<br>
+
+<!-- Databases -->
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<br>
+
+<!-- Tools & DevOps -->
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Google_Colab](https://img.shields.io/badge/Google_Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=black)
+
+</div>
+
+<h1 align="center">Dev Quote</h1>
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+[![](https://visitcount.itsvg.in/api?id=harry934&icon=3&color=0)](https://visitcount.itsvg.in)
+
+</div>
