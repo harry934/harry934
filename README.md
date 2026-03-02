@@ -37,25 +37,52 @@
       </a>
     </td>
     <td width="50%" valign="top" align="center">
-      <h3>🧠Innovate Hub</h3>
-      <a href="https://innovations-b1a19.web.app/">
-        <img src="https://media.giphy.com/media/b0EnJFv8e7vAasW2ru/giphy.gif" width="90%" alt="Team IQ" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
-      </a>
-      <p>
-        <strong>Innovate Hub</strong> is a proposed platform designed to showcase how young innovators develop and refine creative ideas.
-        <br/><br/>
-        <strong>Tech Stack:</strong> HTML · CSS · JavaScript · React
-      </p>
-      <a href="https://github.com/harry934/Project1-USIU">
-         <img src="https://img.shields.io/badge/🔒_Private_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <br/>
-      <a href="https://innovations-b1a19.web.app/">
-        <img src="https://img.shields.io/badge/LIVE_DEMO-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-      </a>
-    </td>
-  </tr>
+      <h3>🧠 Innovate Hub</h3>
+<a href="https://innovations-b1a19.web.app/">
+  <img src="https://media.giphy.com/media/b0EnJFv8e7vAasW2ru/giphy.gif" width="90%" alt="Team IQ" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+</a>
+<p>
+  <strong>Innovate Hub</strong> is a proposed platform designed to showcase how young innovators develop and refine creative ideas.
+  <br/><br/>
+  <strong>Tech Stack:</strong> HTML · CSS · JavaScript · React
+</p>
+<a href="https://github.com/harry934/Project1-USIU">
+   <img src="https://img.shields.io/badge/🔒_Private_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br/>
+<a href="https://innovations-b1a19.web.app/">
+  <img src="https://img.shields.io/badge/LIVE_DEMO-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</a>
 
+<!-- Collapsible previous versions -->
+<details>
+  <summary>⬇️ View Previous Versions</summary>
+  
+  <br/>
+  
+  <h4>Version 1.0</h4>
+  <a href="https://old-innovatehub-v1.web.app/">
+    <img src="https://media.giphy.com/media/old-version-gif-1/giphy.gif" width="80%" alt="Innovate Hub V1 Demo" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+  </a>
+  <p>
+    <strong>Tech Stack:</strong> HTML · CSS · Vanilla JS
+    <br/>
+    <a href="https://github.com/harry934/Project1-USIU-v1">📁 GitHub Repo</a> · 
+    <a href="https://old-innovatehub-v1.web.app/">Live Demo</a>
+  </p>
+  
+  <h4>Version 2.0</h4>
+  <a href="https://old-innovatehub-v2.web.app/">
+    <img src="https://media.giphy.com/media/old-version-gif-2/giphy.gif" width="80%" alt="Innovate Hub V2 Demo" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+  </a>
+  <p>
+    <strong>Tech Stack:</strong> HTML · CSS · React
+    <br/>
+    <a href="https://github.com/harry934/Project1-USIU-v2">📁 GitHub Repo</a> · 
+    <a href="https://old-innovatehub-v2.web.app/">Live Demo</a>
+  </p>
+  
+</details>
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>⛑️Emergency Response ML</h3>
