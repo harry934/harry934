@@ -37,7 +37,8 @@
       </a>
     </td>
     <td width="50%" valign="top" align="center">
-  <h3>🧠 Innovate Hub</h3>
+
+    <h3>🧠 Innovate Hub</h3>
 <a href="https://innovations-b1a19.web.app/">
   <img src="https://media.giphy.com/media/b0EnJFv8e7vAasW2ru/giphy.gif" width="90%" alt="Innovate Hub Demo" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
 </a>
@@ -91,8 +92,8 @@
     </a>
   </p>
 
-</details>    
-  <td width="50%" valign="top" align="center">
+</details>
+   <td width="50%" valign="top" align="center">
       <h3>⛑️Emergency Response ML</h3>
       <a href="https://emergencyresponsee.streamlit.app/">
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZvMHFpbWtkMms0bDAwZ3JpZXZvY2UxaXdkMjR4NTRyZXEybnRlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lPrZAdsDJVs4hcXHVi/giphy.gif" width="90%" alt="Emergency Response ML Demo" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
