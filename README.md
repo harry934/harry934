@@ -58,47 +58,52 @@
         <img src="https://img.shields.io/badge/LIVE_DEMO-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
       </a>
 <!-- Previous Versions Collapsible -->
-     <details>
-  <summary>
-    <img src="https://img.shields.io/badge/Project_History-View_Previous_Versions-0366d6?style=for-the-badge" />
-  </summary>
-  <br/>
+  <details style="width:85%;">
+    <summary style="cursor:pointer; padding:12px 0; font-size:16px;">
+      <strong>Project History</strong> 
+      <span style="color:#6e7781;">— View Previous Versions</span>
+    </summary>
+<div style="margin-top:20px;">
+      <hr style="border:0; height:1px; background:#e1e4e8; width:70%;">
 
   <h4>Innovate Hub v1.0</h4>
-  <a href="https://innovatehub-v1.netlify.app/">
-    <img src="https://media.giphy.com/media/old-version-gif-1/giphy.gif" width="80%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
-  </a>
-  <p>
-    <strong>Tech Stack:</strong> HTML · CSS · JavaScript
-    <br/><br/>
-    <a href="https://github.com/harry934/Project1-USIU-v1">
-      <img src="https://img.shields.io/badge/Repository-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-    <a href="https://innovatehub-v1.netlify.app/">
-      <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-    </a>
-  </p>
+      <a href="https://innovatehub-v1.netlify.app/">
+        <img src="https://media.giphy.com/media/old-version-gif-1/giphy.gif" width="80%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
+      </a>
+      <p>
+        <strong>Tech Stack:</strong> HTML · CSS · JavaScript
+        <br/><br/>
+        <a href="https://github.com/harry934/Project1-USIU-v1">
+          <img src="https://img.shields.io/badge/Repository-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://innovatehub-v1.netlify.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+        </a>
+      </p>
 
-  <hr style="border:0; height:1px; background:#e1e4e8; width:60%;">
+  <br/>
 
   <h4>Innovate Hub v2.0</h4>
-  <a href="https://old-innovatehub-v2.web.app/">
-    <img src="https://media.giphy.com/media/old-version-gif-2/giphy.gif" width="80%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
-  </a>
-  <p>
-    <strong>Tech Stack:</strong> HTML · CSS · React
-    <br/><br/>
-    <a href="https://github.com/harry934/Project1-USIU-v2">
-      <img src="https://img.shields.io/badge/Repository-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-    <a href="https://old-innovatehub-v2.web.app/">
-      <img src="https://img.shields.io/badge/Live_Demo-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-    </a>
-  </p>
-</details>
-    </td>
-  </tr>
+      <a href="https://old-innovatehub-v2.web.app/">
+        <img src="https://media.giphy.com/media/old-version-gif-2/giphy.gif" width="80%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
+      </a>
+      <p>
+        <strong>Tech Stack:</strong> HTML · CSS · React
+        <br/><br/>
+        <a href="https://github.com/harry934/Project1-USIU-v2">
+          <img src="https://img.shields.io/badge/Repository-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://old-innovatehub-v2.web.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+        </a>
+      </p>
 
+  <hr style="border:0; height:1px; background:#e1e4e8; width:70%;">
+    </div>
+  </details>
+
+ </td>
+  </tr>
   <!-- Second row -->
   <tr>
     <!-- Emergency Response ML -->
