@@ -46,7 +46,7 @@
         <br/><br/>
         <strong>Tech Stack:</strong> HTML · CSS · JavaScript · React
       </p>
-      <a href="https://github.com/harry934/TeamIQ">
+      <a href="https://github.com/harry934/Project1-USIU">
          <img src="https://img.shields.io/badge/🔒_Private_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       <br/>
