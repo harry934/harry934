@@ -38,7 +38,7 @@
     </td>
     <td width="50%" valign="top" align="center">
 
-    <h3>🧠 Innovate Hub</h3>
+   <h3>🧠 Innovate Hub</h3>
 <a href="https://innovations-b1a19.web.app/">
   <img src="https://media.giphy.com/media/b0EnJFv8e7vAasW2ru/giphy.gif" width="90%" alt="Innovate Hub Demo" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
 </a>
