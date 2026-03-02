@@ -59,25 +59,8 @@
       </a>
 <!-- Previous Versions Collapsible -->
   <details style="width:85%;">
-<summary style="cursor:pointer; padding:22px 0; text-align:center; list-style:none;">
-  <div>
- <span style="
-      display:inline-block;
-      padding:12px 26px;
-      font-size:15px;
-      font-weight:600;
-      border-radius:50px;
-      background:linear-gradient(135deg,#7f5af0,#6f42c1);
-      color:white;
-      box-shadow:0 4px 14px rgba(0,0,0,0.15);
-    ">
-      <span style="margin-right:8px;">▼</span>
-      PROJECT ARCHIVE
-    </span>
-<div style="font-size:14px; color:#6e7781; margin-top:10px;">
-      Explore earlier builds & development milestones
-</div>
-  </div>
+  <summary style="cursor:pointer; padding:18px 0; font-size:17px; font-weight:600; letter-spacing:0.3px;">
+  View Previous Versions <span style="margin-left:6px;">▾</span>
 </summary>
     
 <div style="margin-top:20px;">
