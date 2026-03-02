@@ -38,8 +38,8 @@
     </td>
     <td width="50%" valign="top" align="center">
       <h3>🧠Innovate Hub</h3>
-      <a href="https://teamiq-1b7be.web.app/">
-        <img src="https://media.giphy.com/media/byZUF8KavKKDa131FJ/giphy.gif" width="90%" alt="Team IQ" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+      <a href="https://innovations-b1a19.web.app/">
+        <img src="https://media.giphy.com/media/b0EnJFv8e7vAasW2ru/giphy.gif" width="90%" alt="Team IQ" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
       <p>
         <strong>Innovate Hub</strong> is a proposed platform designed to showcase how young innovators develop and refine creative ideas.
@@ -50,7 +50,7 @@
          <img src="https://img.shields.io/badge/🔒_Private_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       <br/>
-      <a href="https://teamiq-1b7be.web.app/">
+      <a href="https://innovations-b1a19.web.app/">
         <img src="https://img.shields.io/badge/LIVE_DEMO-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
       </a>
     </td>
