@@ -59,10 +59,10 @@
       </a>
 <!-- Previous Versions Collapsible -->
   <details style="width:85%;">
-    <summary style="cursor:pointer; padding:12px 0; font-size:16px;">
-      <strong>Project History</strong> 
-      <span style="color:#6e7781;">— View Previous Versions</span>
-    </summary>
+   <summary style="cursor:pointer; padding:16px 0; font-size:17px; letter-spacing:0.3px;">
+  <span style="font-weight:600;">Project History</span>
+  <span style="color:#6e7781; font-weight:400;"> · Previous Releases & Iterations</span>
+</summary>
 <div style="margin-top:20px;">
       <hr style="border:0; height:1px; background:#e1e4e8; width:70%;">
 
@@ -80,7 +80,6 @@
           <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
         </a>
       </p>
-
   <br/>
 
   <h4>Innovate Hub v2.0</h4>
