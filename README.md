@@ -61,7 +61,7 @@ Upgraded platform showcasing how young innovators develop and refine creative id
 <h4>Previous Version — TeamIQ v1</h4>
 
 <!-- REPLACE GIF BELOW WITH YOUR OLD ONE -->
-<img src="PUT_OLD_GIF_LINK_HERE" width="90%" style="border-radius:12px; opacity:0.9; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
+<img src="https://media.giphy.com/media/b0EnJFv8e7vAasW2ru/giphy.gif" width="90%" style="border-radius:12px; opacity:0.9; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
 
 <p>
 <em>TeamIQ</em> was the original prototype that laid the foundation for Innovate Hub.
