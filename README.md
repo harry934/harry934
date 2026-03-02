@@ -60,16 +60,12 @@
 <!-- Previous Versions Collapsible -->
   <details style="width:85%;">
     <summary style="cursor:pointer; padding:20px 0; text-align:center; list-style:none;">
-  
   <span style="display:inline-block;">
     <img 
-      src="https://img.shields.io/badge/PROJECT_ARCHIVE-Previous_Versions-6f42c1?style=for-the-badge&logo=github&logoColor=white"
-      alt="Project Archive"
-      style="pointer-events:none;"
-    />
+    src=""alt="Project Archive"style="pointer-events:none;"/>
   </span>
-
 </summary>
+    
 <div style="margin-top:20px;">
       <hr style="border:0; height:1px; background:#e1e4e8; width:70%;">
 
