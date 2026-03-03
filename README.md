@@ -98,7 +98,7 @@
       <p>
         <strong>Tech Stack:</strong> HTML · CSS · Javascript
         <br/><br/>
-          <a href="https://innovatehub-v1.netlify.app/">
+          <a href="https://teamiqoriginal.netlify.app/">
           <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
         </a>
       </p>
