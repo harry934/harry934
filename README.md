@@ -1,25 +1,31 @@
 <!-- ═══════════════════════════════════════ -->
-<!--            PREMIUM HERO               -->
+<!--                HERO                   -->
 <!-- ═══════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=HARRY%20MOKAYA&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=HARRY%20MOKAYA&fontSize=50&color=0:0F2027,50:203A43,100:2C5364&fontColor=ffffff&stroke=00F5D4&strokeWidth=1&animation=fadeIn"/>
 </p>
 
-<p align="center">
-  <b>Software Engineer</b> • <b>Full-Stack Developer</b> • <b>Cybersecurity Enthusiast</b>
-</p>
+<h3 align="center">
+  <code>Software Engineer</code> • 
+  <code>Full-Stack Developer</code> • 
+  <code>Cybersecurity Enthusiast</code>
+</h3>
+
+<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=850&lines=Designing+Clean+Architectures;Building+Scalable+Systems;Security-Minded+Development;Fitness+%7C+Discipline+%7C+Consistency" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=00F5D4&center=true&vCenter=true&width=900&lines=Building+Scalable+Digital+Systems;Designing+Clean+Architectures;Security-First+Development;Discipline+Driven+Engineering" 
+  />
 </p>
 
 <br/>
 
-<!-- Social Row (Glass Style Look) -->
+<!-- Social Section -->
 <p align="center">
   <a href="https://linktr.ee/ha_rry_">
-    <img src="https://img.shields.io/badge/Linktree-111111?style=for-the-badge&logo=linktree&logoColor=00F5D4" />
+    <img src="https://img.shields.io/badge/🌐%20Connect-111111?style=for-the-badge&logo=linktree&logoColor=00F5D4" />
   </a>
   <a href="https://www.linkedin.com/in/h-o-mokaya-0949a2362/">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00F5D4" />
@@ -27,18 +33,20 @@
   <a href="https://bsky.app/profile/mystiqv.bsky.social">
     <img src="https://img.shields.io/badge/Bluesky-111111?style=for-the-badge&logo=bluesky&logoColor=00F5D4" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=lizardcat&style=for-the-badge&color=00F5D4&labelColor=111111" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=lizardcat&style=for-the-badge&color=00F5D4&labelColor=111111" 
+  />
 </p>
 
 <br/>
 
-<!-- Subtle Divider -->
+<!-- Clean Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:00F5D4&height=2&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:0F2027&height=3"/>
 </p>
 
 <p align="center">
-  <i>Focused on performance, security, and long-term scalability.</i>
+  <b>⚡ Engineering with precision. Building with purpose. Securing the future.</b>
 </p>
 
 <h1 align="center">🦄 Projects</h1>
