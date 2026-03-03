@@ -2,12 +2,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+profile;My+name+is+Harry;Software+Engineer;Fitness+Enthusiast;Web+Developer;Aspiring+Cybersecurity+Engineer&cursor=|" />
 </p>
-<br/>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="50%"/>
 </p>
 
-<br/>
 <!-- Creative Light Buttons -->
 <p align="center">
   <a href="https://linktr.ee/ha_rry_" target="_blank">
@@ -226,6 +225,10 @@
 <h1 align="center">🧙‍♂️ Tech Stack</h1>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,js,react,php,mysql,mongodb,firebase,git,cpp,c&perline=6"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="50%"/>
 </p>
 
 </div>
