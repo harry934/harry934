@@ -4,33 +4,22 @@
   Harry Mokaya
 </h1>
 <p align="center">
-  <strong>Software Engineer</strong><br/>
-  Building secure, scalable systems with long-term vision.
+  <strong>Software Engineer</strong>
 </p>
-
 <br/>
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1500&color=4facfe&center=true&vCenter=true&width=800&lines=Full-Stack+Engineering;Security-First+Development;Startup+Systems+Architecture;Product-Driven+Thinking" 
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+profile;My+name+is+Harry;Software+Engineer;Fitness+Enthusiast;Web+Developer;Aspiring+Cybersecurity+Engineer&cursor=|" />
 </p>
-
 <br/>
-
-<!-- Elegant Animated Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%"/>
 </p>
-
 <br/>
-
 <p align="center">
   Passionate about crafting secure, scalable digital experiences  
   with clean architecture and strong engineering discipline.
 </p>
-
 <br/>
-
 <!-- Creative Light Buttons -->
 <p align="center">
   <a href="https://linktr.ee/ha_rry_" target="_blank">
