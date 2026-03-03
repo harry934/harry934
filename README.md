@@ -80,7 +80,7 @@
 
   <h4>Innovate Hub v2.0</h4>
       <a href="https://innovatehub-v1.netlify.app/">
-        <img src="https://media.giphy.com/media/old-version-gif-1/giphy.gif" width="80%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnViYTdocDBrcmxuZXJyaG95bGRjeHpoNWdyaXpjZXUyNjk5eW00MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4geur0tGetrtDJJnj/giphy.gif" width="80%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
       </a>
       <p>
         <strong>Tech Stack:</strong> HTML · CSS · React · Javascript
@@ -93,7 +93,7 @@
 
   <h4>TeamIQ v1.0</h4>
       <a href="https://teamiqoriginal.netlify.app/">
-        <img src="https://media.giphy.com/media/old-version-gif-2/giphy.gif" width="80%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJxajc4cG80NG1waTRxcnhlZGRsczY5am15bGdqajZheTY4N2xyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c1OlL79wN3oaZiebDy/giphy.gif" width="80%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
       </a>
       <p>
         <strong>Tech Stack:</strong> HTML · CSS · Javascript
