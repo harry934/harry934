@@ -83,13 +83,10 @@
         <img src="https://media.giphy.com/media/old-version-gif-1/giphy.gif" width="80%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
       </a>
       <p>
-        <strong>Tech Stack:</strong> HTML · CSS · JavaScript
+        <strong>Tech Stack:</strong> HTML · CSS · React · Javascript
         <br/><br/>
-        <a href="https://github.com/harry934/Project1-USIU-v1">
-          <img src="https://img.shields.io/badge/Repository-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <a href="https://innovatehub-v1.netlify.app/">
-          <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+        <a href="https://teamiq-1b7be.firebaseapp.com/">
+          <img src="https://img.shields.io/badge/Live_Demo-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
         </a>
       </p>
   <br/>
@@ -101,8 +98,8 @@
       <p>
         <strong>Tech Stack:</strong> HTML · CSS · Javascript
         <br/><br/>
-        <a href="https://teamiqoriginal.netlify.app/">
-          <img src="https://img.shields.io/badge/Live_Demo-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+          <a href="https://innovatehub-v1.netlify.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
         </a>
       </p>
 
