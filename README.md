@@ -1,19 +1,31 @@
+
 <!-- ═══════════════════════════════ -->
-<!--            HERO START          -->
+<!--         SENIOR DEV HERO        -->
 <!-- ═══════════════════════════════ -->
 
+<br/>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4facfe,100:00f2fe&height=180&section=header&text=Harry%20Mokaya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&pause=2000&color=24292F&center=true&vCenter=true&width=700&lines=harry@github:~$+whoami" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=4facfe&center=true&vCenter=true&width=900&lines=Software+Engineer;Full-Stack+Developer;Cybersecurity+Enthusiast;Building+Clean+%26+Scalable+Systems" 
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=2500&color=4facfe&center=true&vCenter=true&width=900&lines=Software+Engineer;Full-Stack+Developer;Security-Focused+Builder;Clean+Architecture+Advocate" />
 </p>
 
 <br/>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+<br/>
+
+<p align="center">
+  Designing scalable systems • Writing intentional code • Engineering with discipline
+</p>
+
+<br/>
 <!-- Elegant Animated Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%"/>
