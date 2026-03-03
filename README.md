@@ -79,7 +79,7 @@
       <hr style="border:0; height:1px; background:#e1e4e8; width:70%;">
 
   <h4>Innovate Hub v2.0</h4>
-      <a href="https://innovatehub-v1.netlify.app/">
+      <a href="https://teamiq-1b7be.firebaseapp.com/">
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnViYTdocDBrcmxuZXJyaG95bGRjeHpoNWdyaXpjZXUyNjk5eW00MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4geur0tGetrtDJJnj/giphy.gif" width="80%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
       </a>
       <p>
@@ -93,7 +93,7 @@
 
   <h4>TeamIQ v1.0</h4>
       <a href="https://teamiqoriginal.netlify.app/">
-        <img src="https://media.giphy.com/media/c1OlL79wN3oaZiebDy/giphy.gif" width="80%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
+        <img src="https://media.giphy.com/media/U4geur0tGetrtDJJnj/giphy.gif" width="80%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
       </a>
       <p>
         <strong>Tech Stack:</strong> HTML · CSS · Javascript
