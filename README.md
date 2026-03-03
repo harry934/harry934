@@ -1,31 +1,44 @@
-<!-- Premium Hero Section -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header&text=HARRY&MOKAYA&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
-<h2 align="center">Software Engineer • Web Developer • Cybersecurity Enthusiast</h2>
+<!-- ═══════════════════════════════════════ -->
+<!--            PREMIUM HERO               -->
+<!-- ═══════════════════════════════════════ -->
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=900&color=00F5A0&center=true&vCenter=true&width=900&lines=Building+Scalable+Digital+Experiences;Passionate+About+Clean+Architecture;Fitness+Enthusiast;Always+Learning+%26+Shipping" 
-    alt="Typing Animation"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=HARRY%20MOKAYA&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<p align="center">
+  <b>Software Engineer</b> • <b>Full-Stack Developer</b> • <b>Cybersecurity Enthusiast</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=850&lines=Designing+Clean+Architectures;Building+Scalable+Systems;Security-Minded+Development;Fitness+%7C+Discipline+%7C+Consistency" />
+</p>
+
+<br/>
+
+<!-- Social Row (Glass Style Look) -->
 <p align="center">
   <a href="https://linktr.ee/ha_rry_">
-    <img src="https://img.shields.io/badge/Linktree-00C300?style=for-the-badge&logo=linktree&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Linktree-111111?style=for-the-badge&logo=linktree&logoColor=00F5D4" />
   </a>
   <a href="https://www.linkedin.com/in/h-o-mokaya-0949a2362/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00F5D4" />
   </a>
   <a href="https://bsky.app/profile/mystiqv.bsky.social">
-    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Bluesky-111111?style=for-the-badge&logo=bluesky&logoColor=00F5D4" />
   </a>
-  <img 
-    src="https://komarev.com/ghpvc/?username=lizardcat&style=for-the-badge&color=00F5A0&labelColor=000000" 
-    alt="Profile views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=lizardcat&style=for-the-badge&color=00F5D4&labelColor=111111" />
+</p>
+
+<br/>
+
+<!-- Subtle Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:00F5D4&height=2&section=header"/>
+</p>
+
+<p align="center">
+  <i>Focused on performance, security, and long-term scalability.</i>
 </p>
 
 <h1 align="center">🦄 Projects</h1>
