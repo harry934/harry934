@@ -1,33 +1,36 @@
-<!-- Hero Section -->
-<h1 align="center">Hi, I'm Harry 👋</h1>
+<!-- Premium Hero Section -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header&text=HARRY&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h2 align="center">Software Engineer • Web Developer • Cybersecurity Enthusiast</h2>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=800&color=00F5A0&center=true&vCenter=true&width=800&lines=Software+Engineer;Full-Stack+Web+Developer;Aspiring+Cybersecurity+Engineer;Fitness+Enthusiast;Building+Scalable+Digital+Solutions" 
-    alt="Typing animation" 
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=900&color=00F5A0&center=true&vCenter=true&width=900&lines=Building+Scalable+Digital+Experiences;Passionate+About+Clean+Architecture;Fitness+Enthusiast;Always+Learning+%26+Shipping" 
+    alt="Typing Animation"
   />
 </p>
 
 <p align="center">
   <a href="https://linktr.ee/ha_rry_">
-    <img src="https://img.shields.io/badge/Linktree-1DB954?style=for-the-badge&logo=linktree&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linktree-00C300?style=for-the-badge&logo=linktree&logoColor=white&labelColor=000000" />
   </a>
   <a href="https://www.linkedin.com/in/h-o-mokaya-0949a2362/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
   </a>
   <a href="https://bsky.app/profile/mystiqv.bsky.social">
-    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=000000" />
   </a>
   <img 
-    src="https://komarev.com/ghpvc/?username=lizardcat&style=for-the-badge&color=0A66C2" 
-    alt="Profile views" 
+    src="https://komarev.com/ghpvc/?username=lizardcat&style=for-the-badge&color=00F5A0&labelColor=000000" 
+    alt="Profile views"
   />
 </p>
 
----
-
 <p align="center">
-  <i>Passionate about building impactful software, secure systems, and clean user experiences.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer"/>
 </p>
 
 <h1 align="center">🦄 Projects</h1>
