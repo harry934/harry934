@@ -1,19 +1,33 @@
-<h1 align="center"> ─── ⋆⋅☆⋅⋆ ── </h1>
+<!-- Hero Section -->
+<h1 align="center">Hi, I'm Harry 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+profile;My+name+is+Harry;Software+Engineer;Fitness+Enthusiast;Web+Developer;Aspiring+Cybersecurity+Engineer&cursor=|" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=800&color=00F5A0&center=true&vCenter=true&width=800&lines=Software+Engineer;Full-Stack+Web+Developer;Aspiring+Cybersecurity+Engineer;Fitness+Enthusiast;Building+Scalable+Digital+Solutions" 
+    alt="Typing animation" 
+  />
 </p>
 
 <p align="center">
   <a href="https://linktr.ee/ha_rry_">
-    <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linktree-1DB954?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/h-o-mokaya-0949a2362/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://bsky.app/profile/mystiqv.bsky.social">
-    <img src="https://img.shields.io/badge/Bluesky-0055FF?style=for-the-badge&logo=bluesky&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=lizardcat&style=for-the-badge&color=blueviolet" alt="profile views"/>
+  <img 
+    src="https://komarev.com/ghpvc/?username=lizardcat&style=for-the-badge&color=0A66C2" 
+    alt="Profile views" 
+  />
+</p>
+
+---
+
+<p align="center">
+  <i>Passionate about building impactful software, secure systems, and clean user experiences.</i>
 </p>
 
 <h1 align="center">🦄 Projects</h1>
