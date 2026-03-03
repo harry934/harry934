@@ -1,7 +1,6 @@
 <!-- Premium Hero Section -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header&text=HARRY&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header&text=HARRY&MOKAYA&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <h2 align="center">Software Engineer • Web Developer • Cybersecurity Enthusiast</h2>
@@ -27,10 +26,6 @@
     src="https://komarev.com/ghpvc/?username=lizardcat&style=for-the-badge&color=00F5A0&labelColor=000000" 
     alt="Profile views"
   />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer"/>
 </p>
 
 <h1 align="center">🦄 Projects</h1>
