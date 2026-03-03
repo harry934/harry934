@@ -4,13 +4,9 @@
 </p>
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="50%"/>
 </p>
-<br/>
-<p align="center">
-  Passionate about crafting secure, scalable digital experiences  
-  with clean architecture and strong engineering discipline.
-</p>
+
 <br/>
 <!-- Creative Light Buttons -->
 <p align="center">
@@ -28,14 +24,11 @@
 </p>
 
 <br/>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lizardcat&style=for-the-badge&color=4facfe"/>
 </p>
 
-<!-- ═══════════════════════════════ -->
-<!--             HERO END           -->
-<!-- ═══════════════════════════════ -->
+
 <h1 align="center">🦄 Projects</h1>
 
 <table>
@@ -225,6 +218,10 @@
     <td></td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="50%"/>
+</p>
 
 <h1 align="center">🧙‍♂️ Tech Stack</h1>
 <p align="center">
