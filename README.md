@@ -93,7 +93,7 @@
 
   <h4>TeamIQ v1.0</h4>
       <a href="https://teamiqoriginal.netlify.app/">
-        <img src="https://media.giphy.com/media/GUDBhawIPJ5yPnW7E8/giphy.gif" width="80%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmowZHRuaXU4dDFvOHBhNGE5N2RsM2p2cGhjbHlka2V0MXZ0YnNyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GUDBhawIPJ5yPnW7E8/giphy.gif" width="80%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
       </a>
       <p>
         <strong>Tech Stack:</strong> HTML · CSS · Javascript
