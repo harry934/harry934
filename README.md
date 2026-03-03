@@ -1,47 +1,18 @@
-<!-- ───────────────────────────── -->
-<!--          HERO SECTION        -->
-<!-- ───────────────────────────── -->
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=40&pause=2000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Harry+Mokaya" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&color=8BE9FD&center=true&vCenter=true&width=900&lines=Software+Engineer;Full-Stack+Developer;Cybersecurity+Enthusiast" 
-  />
-</p>
-
-<br/>
-
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true" width="60%" />
-</p>
-
 <br/>
 
 <p align="center">
-  Focused on building scalable systems, clean architectures,  
-  and secure digital experiences.
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://linktr.ee/ha_rry_">
-    <img src="https://img.shields.io/badge/Linktree-000000?style=flat-square&logo=linktree&logoColor=white"/>
+  <a href="https://linktr.ee/ha_rry_" target="_blank">
+    <img src="https://img.shields.io/badge/Connect-111111?style=for-the-badge&logo=linktree&logoColor=white&labelColor=111111" />
   </a>
-  <a href="https://www.linkedin.com/in/h-o-mokaya-0949a2362/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"/>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/h-o-mokaya-0949a2362/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111111" />
   </a>
-  <a href="https://bsky.app/profile/mystiqv.bsky.social">
-    <img src="https://img.shields.io/badge/Bluesky-000000?style=flat-square&logo=bluesky&logoColor=white"/>
+  &nbsp;&nbsp;
+  <a href="https://bsky.app/profile/mystiqv.bsky.social" target="_blank">
+    <img src="https://img.shields.io/badge/Bluesky-111111?style=for-the-badge&logo=bluesky&logoColor=0285FF&labelColor=111111" />
   </a>
 </p>
-
 <h1 align="center">🦄 Projects</h1>
 
 <table>
