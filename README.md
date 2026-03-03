@@ -1,18 +1,57 @@
+<!-- ═══════════════════════════════ -->
+<!--            HERO START          -->
+<!-- ═══════════════════════════════ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4facfe,100:00f2fe&height=180&section=header&text=Harry%20Mokaya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=4facfe&center=true&vCenter=true&width=900&lines=Software+Engineer;Full-Stack+Developer;Cybersecurity+Enthusiast;Building+Clean+%26+Scalable+Systems" 
+  />
+</p>
+
+<br/>
+
+<!-- Elegant Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%"/>
+</p>
+
 <br/>
 
 <p align="center">
+  Passionate about crafting secure, scalable digital experiences  
+  with clean architecture and strong engineering discipline.
+</p>
+
+<br/>
+
+<!-- Creative Light Buttons -->
+<p align="center">
   <a href="https://linktr.ee/ha_rry_" target="_blank">
-    <img src="https://img.shields.io/badge/Connect-111111?style=for-the-badge&logo=linktree&logoColor=white&labelColor=111111" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-4facfe?style=for-the-badge&logo=linktree&logoColor=white&labelColor=4facfe"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/h-o-mokaya-0949a2362/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111111" />
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://bsky.app/profile/mystiqv.bsky.social" target="_blank">
-    <img src="https://img.shields.io/badge/Bluesky-111111?style=for-the-badge&logo=bluesky&logoColor=0285FF&labelColor=111111" />
+    <img src="https://img.shields.io/badge/☁️%20Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=0285FF"/>
   </a>
 </p>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lizardcat&style=for-the-badge&color=4facfe"/>
+</p>
+
+<!-- ═══════════════════════════════ -->
+<!--             HERO END           -->
+<!-- ═══════════════════════════════ -->
 <h1 align="center">🦄 Projects</h1>
 
 <table>
