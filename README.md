@@ -78,7 +78,7 @@
 <div style="margin-top:20px;">
       <hr style="border:0; height:1px; background:#e1e4e8; width:70%;">
 
-  <h4>Innovate Hub v1.0</h4>
+  <h4>Innovate Hub v2.0</h4>
       <a href="https://innovatehub-v1.netlify.app/">
         <img src="https://media.giphy.com/media/old-version-gif-1/giphy.gif" width="80%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
       </a>
@@ -94,17 +94,14 @@
       </p>
   <br/>
 
-  <h4>Innovate Hub v2.0</h4>
-      <a href="https://old-innovatehub-v2.web.app/">
+  <h4>TeamIQ v1.0</h4>
+      <a href="https://teamiqoriginal.netlify.app/">
         <img src="https://media.giphy.com/media/old-version-gif-2/giphy.gif" width="80%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
       </a>
       <p>
-        <strong>Tech Stack:</strong> HTML · CSS · React
+        <strong>Tech Stack:</strong> HTML · CSS · Javascript
         <br/><br/>
-        <a href="https://github.com/harry934/Project1-USIU-v2">
-          <img src="https://img.shields.io/badge/Repository-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-        <a href="https://old-innovatehub-v2.web.app/">
+        <a href="https://teamiqoriginal.netlify.app/">
           <img src="https://img.shields.io/badge/Live_Demo-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
         </a>
       </p>
