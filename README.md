@@ -1,20 +1,14 @@
-<!-- ═══════════════════════════════ -->
-<!--        FOUNDER-STYLE HERO      -->
-<!-- ═══════════════════════════════ -->
-
 <br/>
 
 <h1 align="center">
   Harry Mokaya
 </h1>
-
 <p align="center">
-  <strong>Founder-Minded Software Engineer</strong><br/>
+  <strong>Software Engineer</strong><br/>
   Building secure, scalable systems with long-term vision.
 </p>
 
 <br/>
-
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1500&color=4facfe&center=true&vCenter=true&width=800&lines=Full-Stack+Engineering;Security-First+Development;Startup+Systems+Architecture;Product-Driven+Thinking" 
@@ -23,18 +17,6 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%"/>
-</p>
-
-<br/>
-
-<p align="center">
-  I focus on building products that scale — architected cleanly, secured intentionally,
-  and designed for real-world impact.
-</p>
-
-<br/>
 <!-- Elegant Animated Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%"/>
