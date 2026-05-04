@@ -35,7 +35,7 @@
     <!-- Portfolio -->
     <td width="50%" valign="top" align="center">
       <h3>🔗 Portfolio</h3>
-      <a href="https://harryyportfolio.netlify.app/">
+      <a href="https://harrymokaya.netlify.app/">
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBsYXc3eGdic2kycDd2enh2NDdzYjhtc3d5eGJtaW94ZHMzcDdpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RXwMNzYMfhGfddbhV7/giphy.gif" width="90%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
       <p>
@@ -43,7 +43,7 @@
         <br/><br/>
         <strong>Tech Stack:</strong> HTML · CSS · JavaScript
       </p>
-      <a href="https://github.com/harry934/Portfolio">
+      <a href="https://github.com/harry934/newportfolio">
         <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       <br/>
