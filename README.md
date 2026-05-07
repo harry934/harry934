@@ -211,12 +211,12 @@
       <td width="50%" valign="top" align="center">
       <h3>Laundry Service WebApp</h3>
       <a href="https://redroselaundry.netlify.app/">
-        <img src="" width="90%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFzNHljeW0wd2VqejBvMm83bjI0bTBleWYwZGxrMWV2dWpuamh0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fCDPBRgmCtwSIW75Vn/giphy.gif" width="90%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
       <p>
-        Simple laundry service website where users can book for laundry services fro the confort of their homes.
+        Simple laundry service website where users can book for laundry services from the confort of their homes.
         <br/><br/>
-        <strong>Tech Stack:</strong> HTML · CSS · JavaScript
+        <strong>Tech Stack:</strong> HTML · CSS · JavaScript · M-Pesa Daraja API
       </p>
       <a href="https://github.com/harry934/LaundryService">
         <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
