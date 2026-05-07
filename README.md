@@ -1,8 +1,5 @@
 <h1 align="center"> ─── ⋆⋅☆⋅⋆ ── </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;My+name+is+Harry;Software+Engineer;Fitness+Enthusiast;Web+Developer;Aspiring+Cybersecurity+Engineer&cursor=|" />
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="50%"/>
 </p>
@@ -23,10 +20,6 @@
 </p>
 
 <br/>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lizardcat&style=for-the-badge&color=4facfe"/>
-</p>
-
 
 <h1 align="center">🦄 Projects</h1>
 
