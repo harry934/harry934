@@ -209,17 +209,21 @@
       </a>
     </td>
       <td width="50%" valign="top" align="center">
-      <h3>🚧 Children's Home Donation App (In Progress)</h3>
-      <a href="#">
-        <img src="" width="90%" alt="Coming Soon" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+      <h3>Laundry Service WebApp</h3>
+      <a href="https://redroselaundry.netlify.app/">
+        <img src="" width="90%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
       <p>
-        Mobile version of the children's support platform.
+        Simple laundry service website where users can book for laundry services fro the confort of their homes.
         <br/><br/>
-        <strong>Tech Stack:</strong> Android Studio · Java
+        <strong>Tech Stack:</strong> HTML · CSS · JavaScript
       </p>
-      <a href="#">
-        <img src="https://img.shields.io/badge/🔒_Private_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+      <a href="https://github.com/harry934/LaundryService">
+        <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/>
+      <a href="https://redroselaundry.netlify.app/">
+        <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
       </a>
     </td>
     
