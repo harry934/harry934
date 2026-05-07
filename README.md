@@ -3,24 +3,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="50%"/>
 </p>
-
-<!-- Creative Light Buttons -->
-<p align="center">
-  <a href="https://linktr.ee/ha_rry_" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-4facfe?style=for-the-badge&logo=linktree&logoColor=white&labelColor=4facfe"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/h-o-mokaya-0949a2362/" target="_blank">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://bsky.app/profile/mystiqv.bsky.social" target="_blank">
-    <img src="https://img.shields.io/badge/☁️%20Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=0285FF"/>
-  </a>
-</p>
-
 <br/>
-
 <h1 align="center">🦄 Projects</h1>
 
 <table>
