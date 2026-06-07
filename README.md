@@ -1,8 +1,5 @@
 <h1 align="center"> ─── ⋆⋅☆⋅⋆ ── </h1>
 <p align="center">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="50%"/>
-</p>
 <h1 align="center">🦄 Projects</h1>
 
 <table>
