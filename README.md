@@ -44,7 +44,7 @@
 <!-- Previous Versions Collapsible -->
   <details style="width:85%;">
 <summary style="cursor:pointer; padding:16px 0; font-size:16px; font-weight:600;">
-  View Previous Versions →
+  Click here to view previous versions →
 </summary>
     
 <div style="margin-top:20px;">
