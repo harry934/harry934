@@ -197,9 +197,25 @@
       <a href="https://redroselaundry.netlify.app/">
         <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
       </a>
-    </td>
-    
+    </td> 
   </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🚧 Children's Home Donation App (In Progress)</h3>
+      <a href="#">
+        <img src="" width="90%" alt="Coming Soon" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+      </a>
+      <p>
+        Mobile version of the children's support platform.
+        <br/><br/>
+        <strong>Tech Stack:</strong> Android Studio · Java
+      </p>
+      <a href="#">
+        <img src="https://img.shields.io/badge/🔒_Private_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  
 </table>
 
 <p align="center">
