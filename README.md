@@ -202,12 +202,12 @@
  <!-- NŌRYE Perfume E-Commerce Website -->
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3> NŌRYE Perfume E-Commerce Website </h3>
+      <h3> Perfume E-Commerce Website </h3>
 <a href="https://norye-perfumes.vercel.app/">
        <img src="https://media.giphy.com/media/2guirIzksoT9EsxA3E/giphy.gif" width="90%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
        <p>
-        <strong>NŌRYE</strong> is a premium perfume e-commerce website designed
+        <strong>This is a premium perfume e-commerce website designed
         around a modern luxury fragrance experience, featuring immersive product
         presentation, responsive design, and interactive product animations.
         <br/><br/>
