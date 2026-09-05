@@ -199,25 +199,40 @@
       </a>
     </td> 
   </tr>
+ <!-- NŌRYE Perfume E-Commerce Website -->
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>Perfume Shop E-commerce Website</h3>
-      <a href="https://github.com/harry934/Norye-perfumes">
-        <img src="https://media.giphy.com/media/JQuU9wvfV30qUtyyMf/giphy.gif" width="90%" alt="Coming Soon" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+      <h3> NŌRYE Perfume E-Commerce Website </h3>
+<a href="https://github.com/harry934/Norye-perfumes">
+        <img 
+          src="https://media.giphy.com/media/JQuU9wvfV30qUtyyMf/giphy.gif" 
+          width="90%" 
+          alt="NŌRYE Perfume Website Preview"
+          style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" 
+        />
       </a>
-      <p>
-        Mobile version of the children's support platform.
+       <p>
+        <strong>NŌRYE</strong> is a premium perfume e-commerce website designed
+        around a modern luxury fragrance experience, featuring immersive product
+        presentation, responsive design, and interactive product animations.
         <br/><br/>
-        <strong>Tech Stack:</strong> Android Studio · Java
+<strong>Tech Stack:</strong> JavaScript · React · Three.js · CSS
       </p>
       <a href="https://github.com/harry934/Norye-perfumes">
-        <img src="https://img.shields.io/badge/🔒_Private_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+        <img 
+          src="https://img.shields.io/badge/📁_Repository-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"
+        />
+      </a>
+      <br/>
+      <a href="YOUR_VERCEL_URL_HERE">
+        <img 
+          src="https://img.shields.io/badge/LIVE_DEMO-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
+        />
       </a>
     </td>
   </tr>
   
 </table>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="50%"/>
 </p>
