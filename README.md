@@ -26,7 +26,7 @@
  <!-- Innovate Hub -->
     <td width="50%" valign="top" align="center">
       <h3>🧠 Innovate Hub</h3>
-      <a href="https://innovations-b1a19.web.app/">
+      <a href="https://innovatehubb.vercel.app/">
         <img src="https://media.giphy.com/media/b0EnJFv8e7vAasW2ru/giphy.gif" width="90%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
       <p>
@@ -34,12 +34,14 @@
         <br/><br/>
         <strong>Tech Stack:</strong> HTML · CSS · JavaScript · React
       </p>
-      <a href="https://github.com/harry934/Project1-USIU">
+      <a href="https://github.com/harry934/MySaas">
         <img src="https://img.shields.io/badge/🔒_Private_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       <br/>
-      <a href="https://innovations-b1a19.web.app/">
-        <img src="https://img.shields.io/badge/LIVE_DEMO-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+      <a href="https://innovatehubb.vercel.app/">
+        <img 
+          src="https://img.shields.io/badge/LIVE_DEMO-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
+        />
       </a>
 <!-- Previous Versions Collapsible -->
   <details style="width:85%;">
