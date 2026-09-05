@@ -203,7 +203,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <h3> NŌRYE Perfume E-Commerce Website </h3>
-<a href="https://github.com/harry934/Norye-perfumes">
+<a href="https://norye-perfumes.vercel.app/">
         <img 
           src="https://media.giphy.com/media/JQuU9wvfV30qUtyyMf/giphy.gif" 
           width="90%" 
@@ -224,7 +224,7 @@
         />
       </a>
       <br/>
-      <a href="YOUR_VERCEL_URL_HERE">
+      <a href="https://norye-perfumes.vercel.app/">
         <img 
           src="https://img.shields.io/badge/LIVE_DEMO-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
         />
