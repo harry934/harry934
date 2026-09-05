@@ -207,11 +207,11 @@
        <img src="https://media.giphy.com/media/2guirIzksoT9EsxA3E/giphy.gif" width="90%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
        <p>
-        <strong>This is a premium perfume e-commerce website designed
+        This is a premium perfume e-commerce website designed
         around a modern luxury fragrance experience, featuring immersive product
         presentation, responsive design, and interactive product animations.
         <br/><br/>
-<strong>Tech Stack:</strong> JavaScript · React · Three.js · CSS
+<strong>Tech Stack:</strong> JavaScript · HTML · Three.js · CSS
       </p>
       <a href="https://github.com/harry934/Norye-perfumes">
         <img 
