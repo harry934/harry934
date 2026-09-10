@@ -231,7 +231,7 @@
       <h3>📋 Task Management System (KSL)</h3>
       <img src="https://media.giphy.com/media/CrYu6yHJlHw4xzA1UT/giphy.gif" width="90%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       <p>
-        Confidential task management system for Kenya Shipyards Limited — staff, login accounts, tasks, and progress tracking.
+        Confidential task management system for Kenya Shipyards Limited; staff, login accounts, tasks, and progress tracking.
         <br/><br/>
         <em>🔒 Demo available on request. This project is confidential.</em>
         <br/><br/>
