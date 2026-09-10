@@ -230,7 +230,7 @@
     <td width="50%" valign="top" align="center">
       <h3>📋 Task Management System (KSL)</h3>
       <a href="https://script.google.com/macros/s/AKfycbzn34cAzmEzRipA4Y2omX8psx4O0OPEWpOoufIkMqK2Mp-bz7I2Tz-yicHosAoRj3f2Pw/exec">
-        <img src="" width="90%" alt="Coming Soon" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+        <img src="https://media.giphy.com/media/CrYu6yHJlHw4xzA1UT/giphy.gif" width="90%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
       <p>
         Google Apps Script ERP-style system for Kenya Shipyards Limited (staff, login accounts, tasks, progress).
