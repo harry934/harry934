@@ -246,6 +246,23 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>📒 Daily Diary Management System</h3>
+      <!-- Paste Giphy URL in src -->
+      <img src="" width="90%" alt="Daily Diary Management System" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+      <p>
+        Web based Monday to Friday internship diary for Kenya Shipyards Limited. Sign in, log time in and out, write the day's assignment list, track tasks, and download the week as Excel.
+        <br/><br/>
+        <strong>Tech Stack:</strong> Google Apps Script · Google Sheets · HTML · CSS · JavaScript
+      </p>
+      <a href="https://github.com/harry934/Daily-Diary-Management-System">
+        <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top" align="center">
+    </td>
+  </tr>
   
 </table>
 <p align="center">
