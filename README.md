@@ -228,10 +228,10 @@
       </a>
     </td>
     <td width="50%" valign="top" align="center">
-      <h3>📋 Task Management System (KSL)</h3>
+      <h3>📋 Task Management System</h3>
       <img src="https://media.giphy.com/media/CrYu6yHJlHw4xzA1UT/giphy.gif" width="90%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       <p>
-        Confidential task management system for Kenya Shipyards Limited; staff, login accounts, tasks, and progress tracking.
+        Web based operations tool for staff onboarding with emailed logins, roles, assigned work, progress tracking, and notifications.
         <br/><br/>
         <em>🔒 Demo available on request. This project is confidential.</em>
         <br/><br/>
@@ -252,7 +252,7 @@
       <!-- Paste Giphy URL in src -->
       <img src="" width="90%" alt="Daily Diary Management System" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       <p>
-        Web based Monday to Friday internship diary for Kenya Shipyards Limited. Sign in, log time in and out, write the day's assignment list, track tasks, and download the week as Excel.
+        Web based weekday work diary. Sign in, log time in and out, write the day's assignment list, track related tasks, and download the week as Excel.
         <br/><br/>
         <em>🔒 Live site is private. Demo available on request.</em>
         <br/><br/>
