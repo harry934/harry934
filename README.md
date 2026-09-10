@@ -227,6 +227,24 @@
         />
       </a>
     </td>
+    <td width="50%" valign="top" align="center">
+      <h3>📋 Task Management System (KSL)</h3>
+      <a href="https://script.google.com/macros/s/AKfycbzn34cAzmEzRipA4Y2omX8psx4O0OPEWpOoufIkMqK2Mp-bz7I2Tz-yicHosAoRj3f2Pw/exec">
+        <img src="" width="90%" alt="Coming Soon" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+      </a>
+      <p>
+        Google Apps Script ERP-style system for Kenya Shipyards Limited (staff, login accounts, tasks, progress).
+        <br/><br/>
+        <strong>Tech Stack:</strong> Google Apps Script · Google Sheets · HTML · CSS · JavaScript
+      </p>
+      <a href="#">
+        <img src="https://img.shields.io/badge/🔒_Private_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/>
+      <a href="https://script.google.com/macros/s/AKfycbzn34cAzmEzRipA4Y2omX8psx4O0OPEWpOoufIkMqK2Mp-bz7I2Tz-yicHosAoRj3f2Pw/exec">
+        <img src="https://img.shields.io/badge/Live_Demo-Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+      </a>
+    </td>
   </tr>
   
 </table>
@@ -236,7 +254,9 @@
 
 <h1 align="center">🧙‍♂️ Tech Stack</h1>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,react,php,mysql,mongodb,firebase,git,cpp,c&perline=6"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,react,php,mysql,mongodb,firebase,git,cpp,c,gcp&perline=6"/>
+<br/>
+<em>Google Apps Script · Google Sheets</em>
 </p>
 
 <p align="center">
