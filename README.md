@@ -254,10 +254,16 @@
       <p>
         Web based Monday to Friday internship diary for Kenya Shipyards Limited. Sign in, log time in and out, write the day's assignment list, track tasks, and download the week as Excel.
         <br/><br/>
+        <em>🔒 Live site is private. Demo available on request.</em>
+        <br/><br/>
         <strong>Tech Stack:</strong> Google Apps Script · Google Sheets · HTML · CSS · JavaScript
       </p>
       <a href="https://github.com/harry934/Daily-Diary-Management-System">
         <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/>
+      <a href="https://harrymokaya.netlify.app/#contact">
+        <img src="https://img.shields.io/badge/🔒_Private_Live-Request_Demo-111111?style=for-the-badge"/>
       </a>
     </td>
     <td width="50%" valign="top" align="center">
