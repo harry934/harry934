@@ -262,8 +262,8 @@
         <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       <br/>
-      <a href="https://harrymokaya.netlify.app/#contact">
-        <img src="https://img.shields.io/badge/🔒_Private_Live-Request_Demo-111111?style=for-the-badge"/>
+      <a href="https://script.google.com/macros/s/AKfycbyk8PzPuRuE9fTJFiq0ZBubXDtkluqPZgp4XilsvwGKSVQg6pr1clCJiN5UMQDVCrKd/exec">
+        <img src="https://img.shields.io/badge/Public_Live-Demo-111111?style=for-the-badge"/>
       </a>
     </td>
     <td width="50%" valign="top" align="center">
