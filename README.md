@@ -254,7 +254,7 @@
       <p>
         Web based weekday work diary. Sign in, log time in and out, write the day's assignment list, track related tasks, and download the week as Excel.
         <br/><br/>
-        <em>🔒 Live site is private. Demo available on request.</em>
+        <em>Live Demo.</em>
         <br/><br/>
         <strong>Tech Stack:</strong> Google Apps Script · Google Sheets · HTML · CSS · JavaScript
       </p>
