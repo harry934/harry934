@@ -254,15 +254,13 @@
       <p>
         Web based weekday work diary. Sign in, log time in and out, write the day's assignment list, track related tasks, and download the week as Excel.
         <br/><br/>
-        <em>Live Demo.</em>
-        <br/><br/>
         <strong>Tech Stack:</strong> Google Apps Script · Google Sheets · HTML · CSS · JavaScript
       </p>
       <a href="https://github.com/harry934/Daily-Diary-Management-System">
         <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       <br/>
-      <a href="https://script.google.com/macros/s/AKfycbyk8PzPuRuE9fTJFiq0ZBubXDtkluqPZgp4XilsvwGKSVQg6pr1clCJiN5UMQDVCrKd/exec">
+      <a href="https://harry934.github.io/Daily-Diary-Management-System/">
         <img src="https://img.shields.io/badge/Public_Live-Demo-111111?style=for-the-badge"/>
       </a>
     </td>
