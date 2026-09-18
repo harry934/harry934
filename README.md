@@ -270,7 +270,7 @@
       <h3>🦁 Tourism Operations ERP</h3>
       <!-- Paste Giphy URL in src -->
       <a href="https://harry934.github.io/TourismERP/">
-        <img src="" width="90%" alt="Tourism Operations ERP" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+        <img src="https://media.giphy.com/media/f1YvnQM2SVkkWr2bWJ/giphy.gif" width="90%" alt="Tourism Operations ERP" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
       <p>
         Internal enquiry-to-operations workspace for Lamai Africa Safaris. Staff manage clients, trip files, pipeline stages, handovers, payments, and reports from one board.
