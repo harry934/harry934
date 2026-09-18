@@ -267,6 +267,23 @@
       </a>
     </td>
     <td width="50%" valign="top" align="center">
+      <h3>🦁 Tourism Operations ERP</h3>
+      <!-- Paste Giphy URL in src -->
+      <a href="https://harry934.github.io/TourismERP/">
+        <img src="" width="90%" alt="Tourism Operations ERP" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+      </a>
+      <p>
+        Internal enquiry-to-operations workspace for Lamai Africa Safaris. Staff manage clients, trip files, pipeline stages, handovers, payments, and reports from one board.
+        <br/><br/>
+        <strong>Tech Stack:</strong> Google Apps Script · Google Sheets · HTML · CSS · JavaScript · Vite · Bootstrap
+      </p>
+      <a href="https://github.com/harry934/TourismERP">
+        <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/>
+      <a href="https://harry934.github.io/TourismERP/">
+        <img src="https://img.shields.io/badge/Public_Live-Demo-111111?style=for-the-badge"/>
+      </a>
     </td>
   </tr>
   
