@@ -251,7 +251,7 @@
       <h3>📒 Daily Diary Management System</h3>
       <!-- Paste Giphy URL in src -->
       <a href = "https://harry934.github.io/Daily-Diary-Management-System/">
-      <img src="https://media.giphy.com/media/1mI27al6ulO6nR0LfK/giphy.gif" width="90%" alt="Daily Diary Management System" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+      <img src="https://media.giphy.com/media/rcFE8HHzauRLWYvRF8/giphy.gif" width="90%" alt="Daily Diary Management System" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
         </a>
       <p>
         Web based weekday work diary. Sign in, log time in and out, write the day's assignment list, track related tasks, and download the week as Excel.
@@ -290,7 +290,7 @@
     <td width="50%" valign="top" align="center">
       <h3>🌐 Crafted Technologies</h3>
       <a href="https://craftedke.netlify.app/">
-        <img src="https://media.giphy.com/media/rcFE8HHzauRLWYvRF8/giphy.gif" width="90%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+        <img src="https://media.giphy.com/media/nyo1kaVFN2aZvgDIMs/giphy.gif" width="90%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
       <p>
         <strong>Crafted</strong> is a professional tech company website offering web development, UI/UX design, and digital customized solutions to businesses.
