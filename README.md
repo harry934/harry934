@@ -289,8 +289,8 @@
   <!-- WebCraft Technologies -->
     <td width="50%" valign="top" align="center">
       <h3>🌐 WebCraft Technologies</h3>
-      <a href="https://harry934.github.io/WebCraftTechnologies/">
-        <img src="https://media.giphy.com/media/YOUR_GIF_ID/giphy.gif" width="90%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+      <a href="https://craftedke.netlify.app/">
+        <img src="" width="90%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
       <p>
         <strong>WebCraft Technologies</strong> is a professional tech agency website offering web development, UI/UX design, and digital solutions.
@@ -301,8 +301,8 @@
         <img src="https://img.shields.io/badge/View_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       <br/>
-      <a href="https://harry934.github.io/WebCraftTechnologies/">
-        <img src="https://img.shields.io/badge/Live_Demo-GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white"/>
+      <a href="https://craftedke.netlify.app/">
+         <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
       </a>
     </td>
 
