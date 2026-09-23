@@ -293,7 +293,7 @@
         <img src="https://media.giphy.com/media/nyo1kaVFN2aZvgDIMs/giphy.gif" width="90%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
       <p>
-        <strong>Crafted</strong> is a professional tech company website offering web development, UI/UX design, and digital customized solutions to businesses.
+        <strong>Crafted</strong> is a tech company website build by Harry Moakaya (Founder) offering web development, UI/UX design, and digital customized solutions to businesses.
         <br/><br/>
         <strong>Tech Stack:</strong> HTML · CSS · JavaScript
       </p>
