@@ -254,7 +254,7 @@
       <img src="https://media.giphy.com/media/rcFE8HHzauRLWYvRF8/giphy.gif" width="90%" alt="Daily Diary Management System" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
         </a>
       <p>
-        Web based weekday work diary. Sign in, log time in and out, write the day's assignment list, track related tasks, and download teportd as Excel or Pdf.
+        Web based weekday work diary. Sign in, log time in and out, write the day's assignment list, track related tasks, and download reports as Excel or Pdf.
         <br/><br/>
         <strong>Tech Stack:</strong> Google Apps Script · Google Sheets · HTML · CSS · JavaScript
       </p>
