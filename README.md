@@ -2,7 +2,7 @@
 <p align="center">
 <h1 align="center">🦄 Projects</h1>
 
-<table>
+<table> 
   <tr>
     <!-- Portfolio -->
     <td width="50%" valign="top" align="center">
