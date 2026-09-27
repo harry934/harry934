@@ -287,6 +287,7 @@
     </td>
   </tr>
   <!-- WebCraft Technologies -->
+  <tr>
     <td width="50%" valign="top" align="center">
       <h3>🌐 Crafted Technologies</h3>
       <a href="https://www.craftedke.tech/">
@@ -302,9 +303,11 @@
       </a>
       <br/>
       <a href="https://www.craftedke.tech/">
-         <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LIVE_DEMO-craftedke.tech-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
+    <td width="50%" valign="top" align="center"></td>
+  </tr>
 
 </table>
 <p align="center">
