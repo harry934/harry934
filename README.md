@@ -289,7 +289,7 @@
   <!-- WebCraft Technologies -->
     <td width="50%" valign="top" align="center">
       <h3>🌐 Crafted Technologies</h3>
-      <a href="https://craftedke.netlify.app/">
+      <a href="https://www.craftedke.tech/">
         <img src="https://media.giphy.com/media/nyo1kaVFN2aZvgDIMs/giphy.gif" width="90%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
       <p>
@@ -301,7 +301,7 @@
         <img src="https://img.shields.io/badge/View_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       <br/>
-      <a href="https://craftedke.netlify.app/">
+      <a href="https://www.craftedke.tech/">
          <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
       </a>
     </td>
