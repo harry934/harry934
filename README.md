@@ -303,7 +303,16 @@
         <img src="https://img.shields.io/badge/LIVE_DEMO-craftedke.tech-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
-    <td width="50%" valign="top" align="center"></td>
+    <td width="50%" valign="top" align="center">
+      <h3>🏢 Company Website</h3>
+      <!-- Paste the GIF link in src -->
+      <img src="" width="90%" alt="Company website" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+      <p>
+        Public company website with a homepage, services, products, projects, news, downloads, and contact pages.
+        <br/><br/>
+        <strong>Tech Stack:</strong> HTML · CSS · JavaScript
+      </p>
+    </td>
   </tr>
 
 </table>
