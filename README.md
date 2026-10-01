@@ -1,10 +1,9 @@
 <h1 align="center"> ─── ⋆⋅☆⋅⋆ ── </h1>
-<p align="center">
 <h1 align="center">🦄 Projects</h1>
 
-<table> 
+<table>
   <tr>
-    < td width="50%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
       <h3>🔗 Portfolio</h3>
       <a href="https://harrymokaya.vercel.app/">
         <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZkMjAzZzViaDFiZWJkZG1rdXpzbXhtdHU0dms3ejN0c21tcnZpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MIxb5ENigXdc3rX1G9/giphy.gif" width="90%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
@@ -19,11 +18,10 @@
       </a>
       <br/>
       <a href="https://harrymokaya.vercel.app/">
-        <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LIVE_DEMO-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
-     </tr>
- <!-- Innovate Hub -->
+    <!-- Innovate Hub -->
     <td width="50%" valign="top" align="center">
       <h3>🧠 Innovate Hub</h3>
       <a href="https://innovatehubb.vercel.app/">
@@ -39,49 +37,48 @@
       </a>
       <br/>
       <a href="https://innovatehubb.vercel.app/">
-        <img 
+        <img
           src="https://img.shields.io/badge/LIVE_DEMO-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
         />
       </a>
-<!-- Previous Versions Collapsible -->
-  <details style="width:85%;">
-<summary style="cursor:pointer; padding:16px 0; font-size:16px; font-weight:600;">
-  Click here to view previous versions →
-</summary>
-    
-<div style="margin-top:20px;">
-      <hr style="border:0; height:1px; background:#e1e4e8; width:70%;">
+      <!-- Previous Versions Collapsible -->
+      <details style="width:85%;">
+        <summary style="cursor:pointer; padding:16px 0; font-size:16px; font-weight:600;">
+          Click here to view previous versions →
+        </summary>
 
-  <h4>Innovate Hub v2.0</h4>
-      <a href="https://teamiq-1b7be.firebaseapp.com/">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnViYTdocDBrcmxuZXJyaG95bGRjeHpoNWdyaXpjZXUyNjk5eW00MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4geur0tGetrtDJJnj/giphy.gif" width="80%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
-      </a>
-      <p>
-        <strong>Tech Stack:</strong> HTML · CSS · React · Javascript
-        <br/><br/>
-        <a href="https://teamiq-1b7be.firebaseapp.com/">
-          <img src="https://img.shields.io/badge/Live_Demo-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-        </a>
-      </p>
-  <br/>
+        <div style="margin-top:20px;">
+          <hr style="border:0; height:1px; background:#e1e4e8; width:70%;">
 
-  <h4>TeamIQ v1.0</h4>
-      <a href="https://teamiqoriginal.netlify.app/">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmowZHRuaXU4dDFvOHBhNGE5N2RsM2p2cGhjbHlka2V0MXZ0YnNyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GUDBhawIPJ5yPnW7E8/giphy.gif" width="80%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
-      </a>
-      <p>
-        <strong>Tech Stack:</strong> HTML · CSS · Javascript
-        <br/><br/>
+          <h4>Innovate Hub v2.0</h4>
+          <a href="https://teamiq-1b7be.firebaseapp.com/">
+            <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnViYTdocDBrcmxuZXJyaG95bGRjeHpoNWdyaXpjZXUyNjk5eW00MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4geur0tGetrtDJJnj/giphy.gif" width="80%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
+          </a>
+          <p>
+            <strong>Tech Stack:</strong> HTML · CSS · React · Javascript
+            <br/><br/>
+            <a href="https://teamiq-1b7be.firebaseapp.com/">
+              <img src="https://img.shields.io/badge/Live_Demo-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+            </a>
+          </p>
+          <br/>
+
+          <h4>TeamIQ v1.0</h4>
           <a href="https://teamiqoriginal.netlify.app/">
-          <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-        </a>
-      </p>
+            <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmowZHRuaXU4dDFvOHBhNGE5N2RsM2p2cGhjbHlka2V0MXZ0YnNyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GUDBhawIPJ5yPnW7E8/giphy.gif" width="80%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
+          </a>
+          <p>
+            <strong>Tech Stack:</strong> HTML · CSS · Javascript
+            <br/><br/>
+            <a href="https://teamiqoriginal.netlify.app/">
+              <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+            </a>
+          </p>
 
-  <hr style="border:0; height:1px; background:#e1e4e8; width:70%;">
-    </div>
-  </details>
-
- </td>
+          <hr style="border:0; height:1px; background:#e1e4e8; width:70%;">
+        </div>
+      </details>
+    </td>
   </tr>
   <!-- Second row -->
   <tr>
@@ -325,7 +322,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="50%"/>
 </p>
 
-</div>
 <h1 align="center"> </>Dev Quote </h1>
 <div align="center">
   
