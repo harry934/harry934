@@ -46,11 +46,9 @@
         <summary style="cursor:pointer; padding:16px 0; font-size:16px; font-weight:600;">
           Click here to view previous versions →
         </summary>
-
-        <div style="margin-top:20px;">
+ <div style="margin-top:20px;">
           <hr style="border:0; height:1px; background:#e1e4e8; width:70%;">
-
-          <h4>Innovate Hub v2.0</h4>
+<h4>Innovate Hub v2.0</h4>
           <a href="https://teamiq-1b7be.firebaseapp.com/">
             <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnViYTdocDBrcmxuZXJyaG95bGRjeHpoNWdyaXpjZXUyNjk5eW00MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4geur0tGetrtDJJnj/giphy.gif" width="80%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
           </a>
@@ -62,8 +60,7 @@
             </a>
           </p>
           <br/>
-
-          <h4>TeamIQ v1.0</h4>
+<h4>TeamIQ v1.0</h4>
           <a href="https://teamiqoriginal.netlify.app/">
             <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmowZHRuaXU4dDFvOHBhNGE5N2RsM2p2cGhjbHlka2V0MXZ0YnNyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GUDBhawIPJ5yPnW7E8/giphy.gif" width="80%" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.15);" />
           </a>
@@ -74,8 +71,7 @@
               <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
             </a>
           </p>
-
-          <hr style="border:0; height:1px; background:#e1e4e8; width:70%;">
+<hr style="border:0; height:1px; background:#e1e4e8; width:70%;">
         </div>
       </details>
     </td>
