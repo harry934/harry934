@@ -4,7 +4,7 @@
 
 <table> 
   <tr>
-    <!-- Portfolio Website -->
+    <!-- Portfolio -->
     < td width="50%" valign="top" align="center">
       <h3>🔗 Portfolio</h3>
       <a href="https://harrymokaya.vercel.app/">
