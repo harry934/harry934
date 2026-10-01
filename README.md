@@ -22,6 +22,7 @@
         <img src="https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
       </a>
     </td>
+     </tr>
  <!-- Innovate Hub -->
     <td width="50%" valign="top" align="center">
       <h3>🧠 Innovate Hub</h3>
