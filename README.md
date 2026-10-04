@@ -2,7 +2,7 @@
 <h1 align="center">🦄 Projects</h1>
 
 <table>
-  <tr>
+  <tr> 
     <td width="50%" valign="top" align="center">
       <h3>🔗 Portfolio</h3>
       <a href="https://harrymokaya.vercel.app/">
