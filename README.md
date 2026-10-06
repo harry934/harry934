@@ -241,22 +241,26 @@
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>📒 Daily Diary Management System</h3>
-      <!-- Paste Giphy URL in src -->
-      <a href = "https://harry934.github.io/Daily-Diary-Management-System/install.html">
-      <img src="https://media.giphy.com/media/rcFE8HHzauRLWYvRF8/giphy.gif" width="90%" alt="Daily Diary Management System" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
-        </a>
+      <h3>📒 Tiyo · Internship Daily Diary</h3>
+      <!-- Replace src with the Tiyo demo GIF link -->
+      <a href="https://harry934.github.io/Daily-Diary-Management-System/">
+        <img src="https://media.giphy.com/media/rcFE8HHzauRLWYvRF8/giphy.gif" width="90%" alt="Tiyo internship daily diary demo" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+      </a>
       <p>
-        Web based weekday work diary. Sign in, log time in and out, write the day's assignment list, track related tasks, and download reports as Excel or Pdf.
+        <strong>Tiyo</strong> (Dholuo for "to work") is an installable internship diary. Interns clock in and out, log each day's work, track tasks by due date, follow progress toward their target hours, and download PDF or Google Sheet reports. Installs on iPhone, Android and desktop.
         <br/><br/>
-        <strong>Tech Stack:</strong> Google Apps Script · Google Sheets · HTML · CSS · JavaScript
+        <strong>Tech Stack:</strong> Google Apps Script · Google Sheets · HTML · CSS · JavaScript · Bootstrap · GitHub Pages (PWA)
       </p>
       <a href="https://github.com/harry934/Daily-Diary-Management-System">
         <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       <br/>
+      <a href="https://harry934.github.io/Daily-Diary-Management-System/">
+        <img src="https://img.shields.io/badge/LIVE_DEMO-Open_Tiyo-B4F105?style=for-the-badge&labelColor=072F1F"/>
+      </a>
+      <br/>
       <a href="https://harry934.github.io/Daily-Diary-Management-System/install.html">
-        <img src="https://img.shields.io/badge/Public_Live-Demo-111111?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/📲_Install-Guide-072F1F?style=for-the-badge"/>
       </a>
     </td>
     <td width="50%" valign="top" align="center">
