@@ -243,7 +243,7 @@
     <td width="50%" valign="top" align="center">
       <h3>📒 Daily Diary Management System</h3>
       <!-- Paste Giphy URL in src -->
-      <a href = "https://harry934.github.io/Daily-Diary-Management-System/">
+      <a href = "https://harry934.github.io/Daily-Diary-Management-System/install.html">
       <img src="https://media.giphy.com/media/rcFE8HHzauRLWYvRF8/giphy.gif" width="90%" alt="Daily Diary Management System" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
         </a>
       <p>
@@ -255,7 +255,7 @@
         <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       <br/>
-      <a href="https://harry934.github.io/Daily-Diary-Management-System/">
+      <a href="https://harry934.github.io/Daily-Diary-Management-System/install.html">
         <img src="https://img.shields.io/badge/Public_Live-Demo-111111?style=for-the-badge"/>
       </a>
     </td>
