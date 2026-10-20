@@ -1,7 +1,7 @@
 <h1 align="center"> ─── ⋆⋅☆⋅⋆ ── </h1>
 <h1 align="center">🦄 Projects</h1>
 
-<table>
+<table> 
   <tr> 
     <td width="50%" valign="top" align="center">
       <h3>🔗 Portfolio</h3>
