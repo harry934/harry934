@@ -1,4 +1,4 @@
-q<h1 align="center"> ─── ⋆⋅☆⋅⋆ ── </h1>
+<h1 align="center"> ─── ⋆⋅☆⋅⋆ ── </h1>
 <h1 align="center">🦄 Projects</h1>
 
 <table>
