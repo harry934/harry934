@@ -323,17 +323,15 @@
   <td width="50%" valign="top" align="center">
     <h3>📦Inventory Tracking System</h3>
     <a href="#">
-      <img
-        src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXIzaHdqODY1YzM0M2VteGE0cTBrYWl4NWZiaGphdTRneXA1bXZzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZ4ugoCHbNYj9Y3HvL/giphy.gif"
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXIzaHdqODY1YzM0M2VteGE0cTBrYWl4NWZiaGphdTRneXA1bXZzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZ4ugoCHbNYj9Y3HvL/giphy.gif"
         width="90%"
-        alt="Kenya Shipyards ICT inventory system demo"
+        alt="System demo"
         style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);"
       />
     </a>
     <p>
       Internal LAN system for ICT asset inventory: secure roles, assignments, faults and repairs,
       leases, subscription expiry alerts, email register, Excel/PDF reports, and PostgreSQL backups with restore safeguards.
-      UI aligned with the Kenya Shipyards task management look (navy &amp; gold).
       <br/><br/>
       <em>🔒 Demo available on request. This project is confidential (office server / LAN).</em>
       <br/><br/>
