@@ -368,7 +368,7 @@
     <td width="50%" valign="top" align="center">
       <h3>🛍️ E-Commerce Admin Dashboard</h3>
       <a href="https://dashboardv2-ruddy.vercel.app/">
-        <img src="" width="90%" alt="E-Commerce admin dashboard demo" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTc5ZW4xZWI1MWdlNmc1djhwdGl2MjFjd2d4cGs3am5zdHUzZjYwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Led04Su3qIVc1cgELm/giphy.gif" width="90%" alt="E-Commerce admin dashboard demo" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
       <p>
         Admin desk for e-commerce operations: orders, product catalogue, customers, payments views,
