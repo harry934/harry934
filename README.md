@@ -346,9 +346,12 @@
     </a>
   </td>
   <td width="50%" valign="top" align="center">
-    <h3>🩺 Wren · Personal Health Record</h3>
+    <h3>🩺 Wren · Health Tracker Dashboard</h3>
+    <a href="https://dashboardv1-ashen.vercel.app/">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnEwMjlnMGJkeTBzc3VtdTNjaHp2ZTN6aXY5eTJyaXFlbGdocHI1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OKmZEnJHbOd9TE1LHy/giphy.gif" width="90%" alt="Wren health tracker dashboard" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+    </a>
     <p>
-      Browser-based personal health record for readings, visits, medicines, and reminders. Sample data stays on the device.
+      Health tracker dashboard for readings, visits, medicines, and reminders. Sample data stays on this device.
       <br/><br/>
       <strong>Tech Stack:</strong> React · TypeScript · Vite
     </p>
