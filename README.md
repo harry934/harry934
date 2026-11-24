@@ -363,17 +363,16 @@
       <img src="https://img.shields.io/badge/LIVE_DEMO-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
     </a>
   </td>
-</tr>
+  </tr>
   <tr>
-    <td colspan="2" valign="top" align="center">
-      <h3>🛒 Favora · Sales Desk</h3>
+    <td width="50%" valign="top" align="center">
+      <h3>🛍️ E-Commerce Admin Dashboard</h3>
       <a href="https://dashboardv2-ruddy.vercel.app/">
-        <!-- Replace src below with your Giphy demo URL when ready -->
-        <img src="" width="90%" alt="Favora sales desk demo" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+        <img src="https://placehold.co/1200x675/efefef/111111?text=E-Commerce+Admin+Dashboard" width="90%" alt="E-Commerce admin dashboard demo" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
       <p>
-        React rebuild of a modern sales operations desk: orders, products, customers, payments-style flows,
-        drawer details, overlays, light/dark theme, and page transitions aligned to a premium dashboard pattern.
+        Admin desk for e-commerce operations: orders, product catalogue, customers, payments views,
+        search overlays, drawer details, light/dark theme, and responsive dashboard UI.
         <br/><br/>
         <strong>Tech Stack:</strong> React · TypeScript · Vite · React Router
       </p>
@@ -385,6 +384,7 @@
         <img src="https://img.shields.io/badge/LIVE_DEMO-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
+    <td width="50%" valign="top" align="center"></td>
   </tr>
 
 </table>
