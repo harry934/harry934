@@ -368,7 +368,7 @@
     <td width="50%" valign="top" align="center">
       <h3>🛍️ E-Commerce Admin Dashboard</h3>
       <a href="https://dashboardv2-ruddy.vercel.app/">
-        <img src="https://placehold.co/1200x675/efefef/111111?text=E-Commerce+Admin+Dashboard" width="90%" alt="E-Commerce admin dashboard demo" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+        <img src="" width="90%" alt="E-Commerce admin dashboard demo" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
       <p>
         Admin desk for e-commerce operations: orders, product catalogue, customers, payments views,
@@ -377,7 +377,7 @@
         <strong>Tech Stack:</strong> React · TypeScript · Vite · React Router
       </p>
       <a href="https://github.com/harry934/Dashboardv2">
-        <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/🔒_Private_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       <br/>
       <a href="https://dashboardv2-ruddy.vercel.app/">
