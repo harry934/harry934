@@ -319,6 +319,39 @@
       </a>
     </td>
   </tr>
+  <tr>
+  <td width="50%" valign="top" align="center">
+    <h3>📦 Kenya Shipyards Inventory Tracking</h3>
+    <!-- Paste your Giphy URL in src when ready -->
+    <a href="#">
+      <img
+        src=""
+        width="90%"
+        alt="Kenya Shipyards ICT inventory system demo"
+        style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);"
+      />
+    </a>
+    <p>
+      Internal LAN system for ICT asset inventory: secure roles, assignments, faults and repairs,
+      leases, subscription expiry alerts, email register, Excel/PDF reports, and PostgreSQL backups with restore safeguards.
+      UI aligned with the Kenya Shipyards task management look (navy &amp; gold).
+      <br/><br/>
+      <em>🔒 Demo available on request. This project is confidential (office server / LAN).</em>
+      <br/><br/>
+      <strong>Tech Stack:</strong> React · TypeScript · Vite · Node.js · Express · PostgreSQL · ExcelJS · PDFKit
+    </p>
+    <a href="https://github.com/harry934/kenya-shipyards-inventory">
+      <img src="https://img.shields.io/badge/🔒_Private_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <br/>
+    <a href="https://harrymokaya.netlify.app/#contact">
+      <img src="https://img.shields.io/badge/🔒_Confidential-Request_Demo-111111?style=for-the-badge"/>
+    </a>
+  </td>
+  <td width="50%" valign="top" align="center">
+    <!-- Optional: second project here later -->
+  </td>
+</tr>
 
 </table>
 <p align="center">
