@@ -346,8 +346,8 @@
     </a>
   </td>
   <td width="50%" valign="top" align="center">
-    <h3>🩺 Health Tracker Dashboard</h3>
-    <a href="https://healthdashboard-smoky.vercel.app/">
+    <h3>🩺 Wren · Health Tracker Dashboard</h3>
+    <a href="https://dashboardv1-ashen.vercel.app/">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnEwMjlnMGJkeTBzc3VtdTNjaHp2ZTN6aXY5eTJyaXFlbGdocHI1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OKmZEnJHbOd9TE1LHy/giphy.gif" width="90%" alt="Wren health tracker dashboard" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
     </a>
     <p>
@@ -359,11 +359,33 @@
       <img src="https://img.shields.io/badge/🔒_Private_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
     <br/>
-    <a href="https://healthdashboard-smoky.vercel.app/">
+    <a href="https://dashboardv1-ashen.vercel.app/">
       <img src="https://img.shields.io/badge/LIVE_DEMO-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
     </a>
   </td>
 </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <h3>🛒 Favora · Sales Desk</h3>
+      <a href="https://dashboardv2-ruddy.vercel.app/">
+        <!-- Replace src below with your Giphy demo URL when ready -->
+        <img src="" width="90%" alt="Favora sales desk demo" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
+      </a>
+      <p>
+        React rebuild of a modern sales operations desk: orders, products, customers, payments-style flows,
+        drawer details, overlays, light/dark theme, and page transitions aligned to a premium dashboard pattern.
+        <br/><br/>
+        <strong>Tech Stack:</strong> React · TypeScript · Vite · React Router
+      </p>
+      <a href="https://github.com/harry934/Dashboardv2">
+        <img src="https://img.shields.io/badge/📁_Repo-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <br/>
+      <a href="https://dashboardv2-ruddy.vercel.app/">
+        <img src="https://img.shields.io/badge/LIVE_DEMO-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
 
 </table>
 <p align="center">
