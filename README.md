@@ -305,7 +305,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <h3>🏢 Kenya Shipyards Limited Website</h3>
-   <a href="https://ksl-website.vercel.app/">
+   <a href="#">
         <img src="https://media.giphy.com/media/2PB3J357euLKfkrnAy/giphy-downsized-medium.gif" width="90%" alt="Company website" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
       </a>
       <p>
@@ -313,10 +313,6 @@
         <br/><br/>
         <strong>Tech Stack:</strong> HTML · CSS · JavaScript
       </p>
-      <br/>
-      <a href="https://ksl-website.vercel.app/">
-        <img src="https://img.shields.io/badge/LIVE_DEMO-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-      </a>
     </td>
   </tr>
   <tr>
